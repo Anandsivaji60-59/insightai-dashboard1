@@ -1,0 +1,2089 @@
+row_index,rank,feature,feature_value,shap_value,plain_explanation
+1423,1,total_activity,288,2.722516317,Overall system activity was unusually high
+1423,2,combined_risk,3.17058604,1.610926248,Multiple risk signals increased at the same time
+1423,3,behavioral_risk_3week_avg,8,1.182382825,Suspicious behavior stayed elevated over several weeks
+41532,1,combined_risk,3.133072042,3.082315628,Multiple risk signals increased at the same time
+41532,2,total_activity,234,2.196914746,Overall system activity was unusually high
+41532,3,file_activity,135,1.078235722,File-related activity was unusually high
+9383,1,combined_risk,3.114968272,3.261964317,Multiple risk signals increased at the same time
+9383,2,total_activity,185,2.008971623,Overall system activity was unusually high
+9383,3,device_weekly_avg_device_connections_per_day,4.451948756,0.892904705,Daily external device usage was unusually high
+28016,1,combined_risk,3.645390071,3.041032625,Multiple risk signals increased at the same time
+28016,2,total_activity,246,2.2463454,Overall system activity was unusually high
+28016,3,file_activity,123,1.095584771,File-related activity was unusually high
+20289,1,combined_risk,3.610115715,2.252858371,Multiple risk signals increased at the same time
+20289,2,total_activity,195,2.217446271,Overall system activity was unusually high
+20289,3,behavioral_risk_3week_avg,7,1.011380284,Suspicious behavior stayed elevated over several weeks
+1132,1,combined_risk,3.605263158,3.556628216,Multiple risk signals increased at the same time
+1132,2,http_weekly_active_days,5.504626106,2.094309521,Web activity occurred across many days
+1132,3,behavioral_risk_3week_avg,7,1.41666448,Suspicious behavior stayed elevated over several weeks
+10893,1,total_activity,707,2.981109722,Overall system activity was unusually high
+10893,2,combined_risk,3.433930571,1.567511238,Multiple risk signals increased at the same time
+10893,3,file_activity,292,1.363561005,File-related activity was unusually high
+1051,1,total_activity,217,3.08493866,Overall system activity was unusually high
+1051,2,combined_risk,2.622620381,2.96679923,Multiple risk signals increased at the same time
+1051,3,device_weekly_avg_device_connections_per_day,4.561392799,0.834349284,Daily external device usage was unusually high
+20253,1,total_activity,165,2.802794734,Overall system activity was unusually high
+20253,2,combined_risk,2.11683464,1.338972777,Multiple risk signals increased at the same time
+20253,3,logon_weekly_active_days,-2.122578512,1.267978129,Login activity occurred across many days
+1546,1,combined_risk,3.165360209,3.417767963,Multiple risk signals increased at the same time
+1546,2,total_activity,247,3.054615404,Overall system activity was unusually high
+1546,3,email_weekly_emails_with_attachments,4.827256179,0.272941237,Many emails included attachments
+6566,1,combined_risk,4.101903695,1.738233693,Multiple risk signals increased at the same time
+6566,2,behavioral_risk_3week_avg,8.333333333,1.387951355,Suspicious behavior stayed elevated over several weeks
+6566,3,total_activity,165,0.932089028,Overall system activity was unusually high
+24953,1,combined_risk,3.566442703,3.751988304,Multiple risk signals increased at the same time
+24953,2,http_weekly_active_days,5.504626106,1.870697209,Web activity occurred across many days
+24953,3,behavioral_risk_3week_avg,7,1.389089709,Suspicious behavior stayed elevated over several weeks
+10673,1,combined_risk,2.637364688,3.110652477,Multiple risk signals increased at the same time
+10673,2,total_activity,185,1.940082257,Overall system activity was unusually high
+10673,3,email_weekly_emails_with_attachments,3.660424565,0.253623044,Many emails included attachments
+27938,1,combined_risk,2.581373647,2.734189222,Multiple risk signals increased at the same time
+27938,2,logon_weekly_distinct_pcs,4.736532934,1.368127131,Logins came from multiple computers
+27938,3,behavioral_risk_3week_avg,5,0.535239693,Suspicious behavior stayed elevated over several weeks
+5539,1,total_activity,213,2.910526928,Overall system activity was unusually high
+5539,2,behavioral_risk_3week_avg,7.666666667,1.147706974,Suspicious behavior stayed elevated over several weeks
+5539,3,combined_risk,2.627846211,1.029991363,Multiple risk signals increased at the same time
+27993,1,combined_risk,3.200821202,3.084681023,Multiple risk signals increased at the same time
+27993,2,total_activity,339,2.678534963,Overall system activity was unusually high
+27993,3,file_activity,165,1.097492221,File-related activity was unusually high
+36084,1,combined_risk,2.613661814,3.079196495,Multiple risk signals increased at the same time
+36084,2,total_activity,159,1.283294293,Overall system activity was unusually high
+36084,3,behavioral_risk_3week_avg,4.666666667,0.621689848,Suspicious behavior stayed elevated over several weeks
+30518,1,combined_risk,2.583053378,2.661163773,Multiple risk signals increased at the same time
+30518,2,device_weekly_avg_device_connections_per_day,4.233060668,0.81834914,Daily external device usage was unusually high
+30518,3,device_change,-51,0.768315516,Device usage changed sharply compared with the previous week
+2105,1,combined_risk,3.066442703,4.011914497,Multiple risk signals increased at the same time
+2105,2,http_weekly_active_days,5.504626106,1.754240054,Web activity occurred across many days
+2105,3,behavioral_risk_3week_avg,6,0.399980896,Suspicious behavior stayed elevated over several weeks
+5301,1,total_activity,171,2.825489644,Overall system activity was unusually high
+5301,2,combined_risk,2.115528182,1.328573756,Multiple risk signals increased at the same time
+5301,3,behavioral_risk_3week_avg,4.333333333,0.947015983,Suspicious behavior stayed elevated over several weeks
+3609,1,combined_risk,3.226763718,2.955560582,Multiple risk signals increased at the same time
+3609,2,total_activity,403,2.760471346,Overall system activity was unusually high
+3609,3,file_activity,221,1.094517094,File-related activity was unusually high
+19757,1,combined_risk,3.217618514,3.366573859,Multiple risk signals increased at the same time
+19757,2,total_activity,340,3.20173209,Overall system activity was unusually high
+19757,3,device_weekly_avg_device_connections_per_day,4.424587745,0.783302113,Daily external device usage was unusually high
+34260,1,total_activity,256,4.442760685,Overall system activity was unusually high
+34260,2,combined_risk,2.158827921,0.936122382,Multiple risk signals increased at the same time
+34260,3,logon_weekly_active_days,-2.122578512,0.928383084,Login activity occurred across many days
+30504,1,combined_risk,2.623926838,2.653584238,Multiple risk signals increased at the same time
+30504,2,total_activity,193,2.401505861,Overall system activity was unusually high
+30504,3,device_weekly_avg_device_connections_per_day,4.451948756,0.568703141,Daily external device usage was unusually high
+41518,1,total_activity,458,2.624433318,Overall system activity was unusually high
+41518,2,combined_risk,3.761291527,2.01515855,Multiple risk signals increased at the same time
+41518,3,file_activity,254,1.078235722,File-related activity was unusually high
+4740,1,combined_risk,2.616274729,2.418294408,Multiple risk signals increased at the same time
+4740,2,total_activity,204,2.228794572,Overall system activity was unusually high
+4740,3,file_activity,103,1.184358642,File-related activity was unusually high
+6173,1,total_activity,198,3.226310534,Overall system activity was unusually high
+6173,2,combined_risk,2.137178052,0.814064802,Multiple risk signals increased at the same time
+6173,3,behavioral_risk_3week_avg,5.333333333,0.492287482,Suspicious behavior stayed elevated over several weeks
+28085,1,behavioral_risk_3week_avg,6.666666667,1.940616308,Suspicious behavior stayed elevated over several weeks
+28085,2,total_activity,162,1.718735385,Overall system activity was unusually high
+28085,3,device_weekly_distinct_pcs_used,1.372520245,1.320175387,External devices were used on multiple computers
+23283,1,total_activity,217,2.895416657,Overall system activity was unusually high
+23283,2,combined_risk,2.635871594,2.893954115,Multiple risk signals increased at the same time
+23283,3,device_weekly_avg_device_connections_per_day,4.28778269,0.737379965,Daily external device usage was unusually high
+24306,1,total_activity,254,3.579245587,Overall system activity was unusually high
+24306,2,combined_risk,2.688876446,2.288303403,Multiple risk signals increased at the same time
+24306,3,behavioral_risk_3week_avg,5,0.313458605,Suspicious behavior stayed elevated over several weeks
+24663,1,combined_risk,3.648749533,2.661469797,Multiple risk signals increased at the same time
+24663,2,total_activity,253,2.246390167,Overall system activity was unusually high
+24663,3,file_activity,123,1.274056716,File-related activity was unusually high
+11209,1,combined_risk,2.628966032,2.5224905,Multiple risk signals increased at the same time
+11209,2,total_activity,202,2.453262328,Overall system activity was unusually high
+11209,3,file_activity,53,0.467172523,File-related activity was unusually high
+8833,1,combined_risk,2.622993654,2.753454004,Multiple risk signals increased at the same time
+8833,2,total_activity,176,1.601236735,Overall system activity was unusually high
+8833,3,behavioral_risk_3week_avg,4.666666667,0.424243125,Suspicious behavior stayed elevated over several weeks
+16005,1,combined_risk,3.066442703,4.010048209,Multiple risk signals increased at the same time
+16005,2,http_weekly_active_days,5.504626106,1.754182611,Web activity occurred across many days
+16005,3,behavioral_risk_3week_avg,6,0.40005579,Suspicious behavior stayed elevated over several weeks
+23261,1,combined_risk,2.612915267,3.190827574,Multiple risk signals increased at the same time
+23261,2,total_activity,180,1.916982075,Overall system activity was unusually high
+23261,3,device_weekly_avg_device_connections_per_day,4.451948756,0.724934628,Daily external device usage was unusually high
+24653,1,combined_risk,3.177118328,3.019215772,Multiple risk signals increased at the same time
+24653,2,total_activity,300,2.590785669,Overall system activity was unusually high
+24653,3,file_activity,141,1.094517094,File-related activity was unusually high
+4802,1,combined_risk,3.119447555,3.078622971,Multiple risk signals increased at the same time
+4802,2,total_activity,213,1.792200953,Overall system activity was unusually high
+4802,3,file_activity,122,1.078700331,File-related activity was unusually high
+3614,1,combined_risk,3.109929078,2.914528414,Multiple risk signals increased at the same time
+3614,2,total_activity,196,1.788417551,Overall system activity was unusually high
+3614,3,file_activity,101,1.090825577,File-related activity was unusually high
+4631,1,combined_risk,3.101530422,4.393768664,Multiple risk signals increased at the same time
+4631,2,http_weekly_active_days,5.504626106,2.003479053,Web activity occurred across many days
+4631,3,total_activity,137,0.484039654,Overall system activity was unusually high
+21490,1,combined_risk,3.145390071,3.078622971,Multiple risk signals increased at the same time
+21490,2,total_activity,246,2.230487127,Overall system activity was unusually high
+21490,3,file_activity,117,1.078235722,File-related activity was unusually high
+3834,1,combined_risk,4.083240015,2.250404813,Multiple risk signals increased at the same time
+3834,2,behavioral_risk_3week_avg,7.333333333,1.492931305,Suspicious behavior stayed elevated over several weeks
+3834,3,device_weekly_distinct_pcs_used,12.66286696,1.088315148,External devices were used on multiple computers
+1544,1,combined_risk,3.155281822,3.238358046,Multiple risk signals increased at the same time
+1544,2,total_activity,229,3.12355457,Overall system activity was unusually high
+1544,3,email_weekly_emails_with_attachments,5.216200051,0.28480532,Many emails included attachments
+30569,1,combined_risk,3.160134378,3.150116783,Multiple risk signals increased at the same time
+30569,2,total_activity,237,3.014497298,Overall system activity was unusually high
+30569,3,email_weekly_emails_with_attachments,3.660424565,0.289983604,Many emails included attachments
+30484,1,total_activity,418,3.291187341,Overall system activity was unusually high
+30484,2,combined_risk,3.766517357,3.255788063,Multiple risk signals increased at the same time
+30484,3,device_weekly_avg_device_connections_per_day,4.561392799,0.939270701,Daily external device usage was unusually high
+35157,1,combined_risk,2.570735349,2.239922234,Multiple risk signals increased at the same time
+35157,2,behavioral_risk_3week_avg,5,0.645170403,Suspicious behavior stayed elevated over several weeks
+35157,3,file_change,-44,0.53583526,File activity changed sharply compared with the previous week
+34258,1,total_activity,265,3.549402778,Overall system activity was unusually high
+34258,2,combined_risk,2.663307204,2.876103873,Multiple risk signals increased at the same time
+34258,3,device_weekly_avg_device_connections_per_day,3.576396406,0.616219093,Daily external device usage was unusually high
+28730,1,total_activity,346,3.150363355,Overall system activity was unusually high
+28730,2,combined_risk,2.731429638,2.428641068,Multiple risk signals increased at the same time
+28730,3,logon_weekly_active_days,-2.122578512,1.146310674,Login activity occurred across many days
+39752,1,combined_risk,4.105263158,3.556132814,Multiple risk signals increased at the same time
+39752,2,http_weekly_active_days,5.504626106,1.825597385,Web activity occurred across many days
+39752,3,behavioral_risk_3week_avg,8,1.400152684,Suspicious behavior stayed elevated over several weeks
+3066,1,combined_risk,3.064203061,4.03864902,Multiple risk signals increased at the same time
+3066,2,http_weekly_active_days,5.504626106,1.727377403,Web activity occurred across many days
+3066,3,behavioral_risk_3week_avg,6,0.399980896,Suspicious behavior stayed elevated over several weeks
+16498,1,total_activity,313,2.238992754,Overall system activity was unusually high
+16498,2,combined_risk,4.694102277,1.444671726,Multiple risk signals increased at the same time
+16498,3,behavioral_risk_3week_avg,9,1.305896793,Suspicious behavior stayed elevated over several weeks
+25469,1,combined_risk,3.062709966,4.024580172,Multiple risk signals increased at the same time
+25469,2,http_weekly_active_days,5.504626106,1.721340606,Web activity occurred across many days
+25469,3,behavioral_risk_3week_avg,6,0.399446193,Suspicious behavior stayed elevated over several weeks
+41534,1,combined_risk,3.125233296,3.105346957,Multiple risk signals increased at the same time
+41534,2,total_activity,220,1.962945923,Overall system activity was unusually high
+41534,3,file_activity,119,1.088818595,File-related activity was unusually high
+17282,1,combined_risk,3.640910788,2.279418488,Multiple risk signals increased at the same time
+17282,2,total_activity,228,2.147279516,Overall system activity was unusually high
+17282,3,file_activity,89,1.227562175,File-related activity was unusually high
+1229,1,total_activity,307,2.609986899,Overall system activity was unusually high
+1229,2,combined_risk,3.686076894,2.458230403,Multiple risk signals increased at the same time
+1229,3,file_activity,203,1.246409968,File-related activity was unusually high
+10634,1,total_activity,214,4.049820613,Overall system activity was unusually high
+10634,2,combined_risk,2.144830161,0.921827013,Multiple risk signals increased at the same time
+10634,3,logon_weekly_active_days,-1.428846822,0.770991778,Login activity occurred across many days
+24621,1,total_activity,618,3.176150561,Overall system activity was unusually high
+24621,2,combined_risk,2.865248227,1.53283497,Multiple risk signals increased at the same time
+24621,3,file_activity,301,1.189483484,File-related activity was unusually high
+37815,1,combined_risk,3.166666667,3.075974057,Multiple risk signals increased at the same time
+37815,2,total_activity,274,2.509958389,Overall system activity was unusually high
+37815,3,file_activity,117,0.980026346,File-related activity was unusually high
+21143,1,combined_risk,3.554497947,3.765665509,Multiple risk signals increased at the same time
+21143,2,http_weekly_active_days,5.504626106,1.979802445,Web activity occurred across many days
+21143,3,behavioral_risk_3week_avg,7,1.388555006,Suspicious behavior stayed elevated over several weeks
+40987,1,combined_risk,2.621873834,2.320458692,Multiple risk signals increased at the same time
+40987,2,total_activity,203,1.717354696,Overall system activity was unusually high
+40987,3,file_activity,133,1.042597555,File-related activity was unusually high
+3634,1,combined_risk,2.607689436,2.424130981,Multiple risk signals increased at the same time
+3634,2,total_activity,192,2.232515498,Overall system activity was unusually high
+3634,3,file_activity,101,1.174501862,File-related activity was unusually high
+28723,1,total_activity,366,3.487191836,Overall system activity was unusually high
+28723,2,combined_risk,2.745800672,2.715913135,Multiple risk signals increased at the same time
+28723,3,file_activity,74,0.684664641,File-related activity was unusually high
+24349,1,combined_risk,2.612355356,2.450392198,Multiple risk signals increased at the same time
+24349,2,total_activity,175,1.752595231,Overall system activity was unusually high
+24349,3,file_activity,56,0.504245063,File-related activity was unusually high
+11031,1,combined_risk,2.614594998,2.447568202,Multiple risk signals increased at the same time
+11031,2,total_activity,176,1.594425986,Overall system activity was unusually high
+11031,3,behavioral_risk_3week_avg,4.666666667,0.591468601,Suspicious behavior stayed elevated over several weeks
+19321,1,combined_risk,3.620194102,2.90487351,Multiple risk signals increased at the same time
+19321,2,total_activity,184,2.001786952,Overall system activity was unusually high
+19321,3,file_activity,60,0.689196882,File-related activity was unusually high
+39400,1,combined_risk,3.17058604,3.108651053,Multiple risk signals increased at the same time
+39400,2,total_activity,283,2.464150648,Overall system activity was unusually high
+39400,3,file_activity,132,1.077257242,File-related activity was unusually high
+24650,1,total_activity,352,3.092522737,Overall system activity was unusually high
+24650,2,combined_risk,2.707913401,2.57974635,Multiple risk signals increased at the same time
+24650,3,file_activity,170,1.170729944,File-related activity was unusually high
+38709,1,combined_risk,2.600037327,3.353119293,Multiple risk signals increased at the same time
+38709,2,behavioral_risk_3week_avg,5,0.512333149,Suspicious behavior stayed elevated over several weeks
+38709,3,total_activity,135,0.487822798,Overall system activity was unusually high
+30928,1,combined_risk,3.565696155,3.751988304,Multiple risk signals increased at the same time
+30928,2,http_weekly_active_days,5.504626106,1.843794976,Web activity occurred across many days
+30928,3,behavioral_risk_3week_avg,7,1.389089709,Suspicious behavior stayed elevated over several weeks
+12252,1,combined_risk,4.106569616,2.180648522,Multiple risk signals increased at the same time
+12252,2,behavioral_risk_3week_avg,7,1.484405722,Suspicious behavior stayed elevated over several weeks
+12252,3,total_activity,175,1.238070578,Overall system activity was unusually high
+10226,1,combined_risk,3.069242255,2.82209164,Multiple risk signals increased at the same time
+10226,2,file_change,-85,1.209964715,File activity changed sharply compared with the previous week
+10226,3,file_weekly_total_file_events,5.756242605,0.984593447,File access activity was unusually high
+5535,1,total_activity,269,2.503978621,Overall system activity was unusually high
+5535,2,combined_risk,4.659761105,1.590902291,Multiple risk signals increased at the same time
+5535,3,behavioral_risk_3week_avg,9.333333333,1.043787518,Suspicious behavior stayed elevated over several weeks
+10911,1,combined_risk,3.721911161,3.102524241,Multiple risk signals increased at the same time
+10911,2,total_activity,362,2.426857044,Overall system activity was unusually high
+10911,3,file_activity,149,1.078235722,File-related activity was unusually high
+36590,1,combined_risk,4.038820455,3.576544334,Multiple risk signals increased at the same time
+36590,2,http_weekly_active_days,5.504626106,1.682947191,Web activity occurred across many days
+36590,3,behavioral_risk_3week_avg,8,1.385570647,Suspicious behavior stayed elevated over several weeks
+17978,1,combined_risk,2.616088093,3.164342081,Multiple risk signals increased at the same time
+17978,2,total_activity,179,1.734390077,Overall system activity was unusually high
+17978,3,behavioral_risk_3week_avg,5,0.518813597,Suspicious behavior stayed elevated over several weeks
+3626,1,combined_risk,3.114781635,3.132385105,Multiple risk signals increased at the same time
+3626,2,total_activity,205,1.804010114,Overall system activity was unusually high
+3626,3,file_activity,114,1.159087475,File-related activity was unusually high
+11035,1,combined_risk,2.608435984,2.43982812,Multiple risk signals increased at the same time
+11035,2,total_activity,171,1.593954812,Overall system activity was unusually high
+11035,3,behavioral_risk_3week_avg,4.666666667,0.591461123,Suspicious behavior stayed elevated over several weeks
+31589,1,combined_risk,3.07241508,4.323512737,Multiple risk signals increased at the same time
+31589,2,http_weekly_active_days,5.504626106,1.341034067,Web activity occurred across many days
+31589,3,total_activity,98,0.617420134,Overall system activity was unusually high
+12255,1,combined_risk,4.084919746,2.488448973,Multiple risk signals increased at the same time
+12255,2,behavioral_risk_3week_avg,7.666666667,1.395323793,Suspicious behavior stayed elevated over several weeks
+12255,3,device_weekly_distinct_pcs_used,11.04996028,1.112137044,External devices were used on multiple computers
+6180,1,combined_risk,3.127099664,3.456361495,Multiple risk signals increased at the same time
+6180,2,total_activity,181,1.881910503,Overall system activity was unusually high
+6180,3,behavioral_risk_3week_avg,6,0.361600042,Suspicious behavior stayed elevated over several weeks
+30849,1,combined_risk,2.602276969,2.559283971,Multiple risk signals increased at the same time
+30849,2,total_activity,154,1.203658649,Overall system activity was unusually high
+30849,3,behavioral_risk_3week_avg,4.666666667,0.596285641,Suspicious behavior stayed elevated over several weeks
+9918,1,combined_risk,3.565696155,3.752094898,Multiple risk signals increased at the same time
+9918,2,http_weekly_active_days,5.504626106,1.843803319,Web activity occurred across many days
+9918,3,behavioral_risk_3week_avg,7,1.389164604,Suspicious behavior stayed elevated over several weeks
+40991,1,combined_risk,2.617767824,2.311412462,Multiple risk signals increased at the same time
+40991,2,total_activity,196,2.076482959,Overall system activity was unusually high
+40991,3,file_activity,131,1.143483148,File-related activity was unusually high
+17387,1,total_activity,264,3.247964276,Overall system activity was unusually high
+17387,2,combined_risk,3.680851064,2.646068291,Multiple risk signals increased at the same time
+17387,3,file_activity,75,0.586717957,File-related activity was unusually high
+38572,1,total_activity,154,2.269102411,Overall system activity was unusually high
+38572,2,combined_risk,2.102090332,1.354683746,Multiple risk signals increased at the same time
+38572,3,behavioral_risk_3week_avg,4.333333333,0.961356938,Suspicious behavior stayed elevated over several weeks
+41554,1,combined_risk,3.132885405,3.071821145,Multiple risk signals increased at the same time
+41554,2,total_activity,234,2.344161004,Overall system activity was unusually high
+41554,3,file_activity,134,1.097126573,File-related activity was unusually high
+28725,1,total_activity,284,3.089736094,Overall system activity was unusually high
+28725,2,combined_risk,4.190742814,2.533678467,Multiple risk signals increased at the same time
+28725,3,file_activity,64,0.696180332,File-related activity was unusually high
+40961,1,combined_risk,3.117954461,1.856958885,Multiple risk signals increased at the same time
+40961,2,total_activity,196,1.677813284,Overall system activity was unusually high
+40961,3,behavioral_risk_3week_avg,7.333333333,1.260974988,Suspicious behavior stayed elevated over several weeks
+18056,1,combined_risk,3.579880552,3.586020095,Multiple risk signals increased at the same time
+18056,2,http_weekly_active_days,7.407214,2.400369356,Web activity occurred across many days
+18056,3,behavioral_risk_3week_avg,7,1.423654759,Suspicious behavior stayed elevated over several weeks
+39084,1,combined_risk,3.59929078,3.591516852,Multiple risk signals increased at the same time
+39084,2,http_weekly_active_days,5.504626106,2.088830509,Web activity occurred across many days
+39084,3,behavioral_risk_3week_avg,7,1.416166645,Suspicious behavior stayed elevated over several weeks
+10234,1,combined_risk,2.60339679,2.727118225,Multiple risk signals increased at the same time
+10234,2,total_activity,176,1.473165372,Overall system activity was unusually high
+10234,3,file_activity,128,1.155040072,File-related activity was unusually high
+16140,1,total_activity,427,2.813676904,Overall system activity was unusually high
+16140,2,combined_risk,3.288353863,2.050455324,Multiple risk signals increased at the same time
+16140,3,behavioral_risk_3week_avg,7,1.263706548,Suspicious behavior stayed elevated over several weeks
+40973,1,combined_risk,3.602650243,2.008141496,Multiple risk signals increased at the same time
+40973,2,behavioral_risk_3week_avg,7,1.423725997,Suspicious behavior stayed elevated over several weeks
+40973,3,file_activity,102,1.060284694,File-related activity was unusually high
+17842,1,total_activity,184,2.850297175,Overall system activity was unusually high
+17842,2,combined_risk,2.118327734,0.828358967,Multiple risk signals increased at the same time
+17842,3,behavioral_risk_3week_avg,4.333333333,0.637031801,Suspicious behavior stayed elevated over several weeks
+17759,1,total_activity,237,3.228693756,Overall system activity was unusually high
+17759,2,combined_risk,2.676185144,2.286711762,Multiple risk signals increased at the same time
+17759,3,behavioral_risk_3week_avg,4.666666667,0.341111483,Suspicious behavior stayed elevated over several weeks
+40117,1,total_activity,233,3.27565962,Overall system activity was unusually high
+40117,2,combined_risk,2.653228817,2.318702817,Multiple risk signals increased at the same time
+40117,3,file_activity,64,0.493632204,File-related activity was unusually high
+34881,1,combined_risk,3.555244494,3.765665509,Multiple risk signals increased at the same time
+34881,2,http_weekly_active_days,5.504626106,1.985322332,Web activity occurred across many days
+34881,3,behavioral_risk_3week_avg,7,1.389089709,Suspicious behavior stayed elevated over several weeks
+5399,1,combined_risk,3.06774916,2.758962322,Multiple risk signals increased at the same time
+5399,2,file_weekly_total_file_events,3.724664126,1.175113405,File access activity was unusually high
+5399,3,file_change,-104,1.139666473,File activity changed sharply compared with the previous week
+17758,1,total_activity,268,3.594407787,Overall system activity was unusually high
+17758,2,combined_risk,2.699328108,2.288521964,Multiple risk signals increased at the same time
+17758,3,behavioral_risk_3week_avg,4.666666667,0.378990605,Suspicious behavior stayed elevated over several weeks
+36973,1,combined_risk,3.026129153,3.883282457,Multiple risk signals increased at the same time
+36973,2,http_weekly_active_days,7.407214,2.212312834,Web activity occurred across many days
+36973,3,email_weekly_active_days,1.101731091,0.438521058,Email activity occurred across many days
+14461,1,combined_risk,3.609742441,3.55673481,Multiple risk signals increased at the same time
+14461,2,http_weekly_active_days,5.504626106,2.094317863,Web activity occurred across many days
+14461,3,behavioral_risk_3week_avg,7,1.416737209,Suspicious behavior stayed elevated over several weeks
+17441,1,total_activity,302,3.562455954,Overall system activity was unusually high
+17441,2,combined_risk,2.68402389,2.577284076,Multiple risk signals increased at the same time
+17441,3,device_weekly_avg_device_connections_per_day,4.014172581,0.560438496,Daily external device usage was unusually high
+17261,1,total_activity,274,2.971410465,Overall system activity was unusually high
+17261,2,combined_risk,2.670212766,2.342273095,Multiple risk signals increased at the same time
+17261,3,file_activity,100,1.366853253,File-related activity was unusually high
+5401,1,combined_risk,3.55897723,3.738319901,Multiple risk signals increased at the same time
+5401,2,http_weekly_active_days,5.504626106,1.843278066,Web activity occurred across many days
+5401,3,behavioral_risk_3week_avg,7,1.389089709,Suspicious behavior stayed elevated over several weeks
+3828,1,total_activity,253,2.014395898,Overall system activity was unusually high
+3828,2,combined_risk,4.161440836,1.640530358,Multiple risk signals increased at the same time
+3828,3,behavioral_risk_3week_avg,8,1.257161074,Suspicious behavior stayed elevated over several weeks
+23257,1,combined_risk,2.613288541,3.294861896,Multiple risk signals increased at the same time
+23257,2,total_activity,180,1.880291136,Overall system activity was unusually high
+23257,3,device_weekly_avg_device_connections_per_day,4.014172581,0.60694338,Daily external device usage was unusually high
+16107,1,total_activity,474,2.68642769,Overall system activity was unusually high
+16107,2,combined_risk,3.781448302,1.951584968,Multiple risk signals increased at the same time
+16107,3,file_activity,208,1.094261967,File-related activity was unusually high
+16269,1,combined_risk,3.603770063,3.591516852,Multiple risk signals increased at the same time
+16269,2,http_weekly_active_days,5.504626106,2.094309521,Web activity occurred across many days
+16269,3,behavioral_risk_3week_avg,7,1.41666448,Suspicious behavior stayed elevated over several weeks
+11608,1,combined_risk,3.065696155,3.985703122,Multiple risk signals increased at the same time
+11608,2,http_weekly_active_days,5.504626106,1.727272036,Web activity occurred across many days
+11608,3,behavioral_risk_3week_avg,6,0.399980896,Suspicious behavior stayed elevated over several weeks
+5305,1,combined_risk,2.632138858,2.569224348,Multiple risk signals increased at the same time
+5305,2,total_activity,194,2.551076721,Overall system activity was unusually high
+5305,3,behavioral_risk_3week_avg,5.333333333,0.386258694,Suspicious behavior stayed elevated over several weeks
+20295,1,combined_risk,2.610675625,2.825296983,Multiple risk signals increased at the same time
+20295,2,total_activity,196,2.498471468,Overall system activity was unusually high
+20295,3,device_weekly_avg_device_connections_per_day,4.561392799,0.834349284,Daily external device usage was unusually high
+40086,1,combined_risk,3.135871594,3.044115465,Multiple risk signals increased at the same time
+40086,2,total_activity,229,2.268698141,Overall system activity was unusually high
+40086,3,file_activity,106,1.094882743,File-related activity was unusually high
+34259,1,total_activity,269,3.458668816,Overall system activity was unusually high
+34259,2,combined_risk,2.666666667,2.954927398,Multiple risk signals increased at the same time
+34259,3,device_ratio,0.56133829,-1.164146644,Device usage was higher than expected compared with other actions
+39759,1,total_activity,160,2.352231061,Overall system activity was unusually high
+39759,2,combined_risk,2.114594998,1.197678375,Multiple risk signals increased at the same time
+39759,3,behavioral_risk_3week_avg,4.333333333,0.837791461,Suspicious behavior stayed elevated over several weeks
+17258,1,total_activity,272,2.526620198,Overall system activity was unusually high
+17258,2,combined_risk,3.669279582,2.028877415,Multiple risk signals increased at the same time
+17258,3,behavioral_risk_3week_avg,7.333333333,1.307962719,Suspicious behavior stayed elevated over several weeks
+26214,1,total_activity,245,3.323181223,Overall system activity was unusually high
+26214,2,combined_risk,2.664427025,2.957056871,Multiple risk signals increased at the same time
+26214,3,email_weekly_emails_with_attachments,2.49359295,0.282900955,Many emails included attachments
+38483,1,combined_risk,3.071668533,3.221520184,Multiple risk signals increased at the same time
+38483,2,logon_weekly_distinct_pcs,9.704928123,1.327393765,Logins came from multiple computers
+38483,3,behavioral_risk_3week_avg,5,0.414155658,Suspicious behavior stayed elevated over several weeks
+8236,1,combined_risk,3.111048899,2.914528414,Multiple risk signals increased at the same time
+8236,2,total_activity,196,1.790676829,Overall system activity was unusually high
+8236,3,file_activity,103,1.090825577,File-related activity was unusually high
+40970,1,combined_risk,3.115901456,2.034742527,Multiple risk signals increased at the same time
+40970,2,total_activity,192,1.924844918,Overall system activity was unusually high
+40970,3,behavioral_risk_3week_avg,6.666666667,1.38978166,Suspicious behavior stayed elevated over several weeks
+9861,1,total_activity,253,2.751091481,Overall system activity was unusually high
+9861,2,combined_risk,2.649309444,2.700765061,Multiple risk signals increased at the same time
+9861,3,file_activity,122,1.170790306,File-related activity was unusually high
+4783,1,combined_risk,3.111608809,2.987926043,Multiple risk signals increased at the same time
+4783,2,total_activity,199,1.728375669,Overall system activity was unusually high
+4783,3,file_activity,112,1.090825577,File-related activity was unusually high
+30840,1,combined_risk,3.614594998,2.84914554,Multiple risk signals increased at the same time
+30840,2,http_weekly_active_days,5.504626106,1.710875827,Web activity occurred across many days
+30840,3,total_activity,177,1.439547975,Overall system activity was unusually high
+34399,1,total_activity,227,2.934929953,Overall system activity was unusually high
+34399,2,combined_risk,3.150989175,2.705304587,Multiple risk signals increased at the same time
+34399,3,file_activity,57,0.67744106,File-related activity was unusually high
+16840,1,combined_risk,3.555244494,3.765772103,Multiple risk signals increased at the same time
+16840,2,http_weekly_active_days,5.504626106,1.979867945,Web activity occurred across many days
+16840,3,behavioral_risk_3week_avg,7,1.388629901,Suspicious behavior stayed elevated over several weeks
+32681,1,total_activity,284,3.119782371,Overall system activity was unusually high
+32681,2,combined_risk,2.672265771,2.553022803,Multiple risk signals increased at the same time
+32681,3,file_activity,121,1.172074073,File-related activity was unusually high
+34654,1,combined_risk,3.148189623,3.031972539,Multiple risk signals increased at the same time
+34654,2,total_activity,251,2.294198456,Overall system activity was unusually high
+34654,3,file_activity,122,1.094517094,File-related activity was unusually high
+37182,1,combined_risk,3.610488988,3.556628216,Multiple risk signals increased at the same time
+37182,2,http_weekly_active_days,5.504626106,2.088846791,Web activity occurred across many days
+37182,3,behavioral_risk_3week_avg,7,1.41611753,Suspicious behavior stayed elevated over several weeks
+30842,1,total_activity,156,2.360279679,Overall system activity was unusually high
+30842,2,combined_risk,2.103210153,1.32624168,Multiple risk signals increased at the same time
+30842,3,behavioral_risk_3week_avg,6,0.742623993,Suspicious behavior stayed elevated over several weeks
+10887,1,combined_risk,5,2.167292922,Multiple risk signals increased at the same time
+10887,2,total_activity,815,2.057934281,Overall system activity was unusually high
+10887,3,http_weekly_active_days,7.407214,1.678584907,Web activity occurred across many days
+4274,1,combined_risk,3.602090332,2.559195968,Multiple risk signals increased at the same time
+4274,2,http_weekly_active_days,7.407214,1.982620813,Web activity occurred across many days
+4274,3,behavioral_risk_3week_avg,7,1.423332857,Suspicious behavior stayed elevated over several weeks
+20291,1,combined_risk,3.105823068,3.41705494,Multiple risk signals increased at the same time
+20291,2,total_activity,188,2.135945544,Overall system activity was unusually high
+20291,3,device_weekly_avg_device_connections_per_day,4.19657932,0.625346088,Daily external device usage was unusually high
+2414,1,combined_risk,3.066442703,4.038355169,Multiple risk signals increased at the same time
+2414,2,http_weekly_active_days,5.504626106,1.754287978,Web activity occurred across many days
+2414,3,behavioral_risk_3week_avg,6,0.40005579,Suspicious behavior stayed elevated over several weeks
+37790,1,total_activity,494,2.725354117,Overall system activity was unusually high
+37790,2,combined_risk,4.301045166,1.978097568,Multiple risk signals increased at the same time
+37790,3,behavioral_risk_3week_avg,7.333333333,1.333416333,Suspicious behavior stayed elevated over several weeks
+5076,1,combined_risk,3.132325495,2.993418544,Multiple risk signals increased at the same time
+5076,2,total_activity,225,2.093168011,Overall system activity was unusually high
+5076,3,file_activity,101,1.094882743,File-related activity was unusually high
+20808,1,combined_risk,3.14893617,3.325736709,Multiple risk signals increased at the same time
+20808,2,total_activity,223,2.906551723,Overall system activity was unusually high
+20808,3,file_change,-14,0.248867128,File activity changed sharply compared with the previous week
+1444,1,combined_risk,3.612541993,3.018150973,Multiple risk signals increased at the same time
+1444,2,http_weekly_active_days,5.504626106,2.069687078,Web activity occurred across many days
+1444,3,behavioral_risk_3week_avg,7,1.426905358,Suspicious behavior stayed elevated over several weeks
+10245,1,combined_risk,3.058603957,3.072789746,Multiple risk signals increased at the same time
+10245,2,file_weekly_total_file_events,5.339508558,0.978224895,File access activity was unusually high
+10245,3,file_activity,76,0.493880453,File-related activity was unusually high
+36546,1,combined_risk,3.579880552,3.586806135,Multiple risk signals increased at the same time
+36546,2,http_weekly_active_days,5.504626106,1.94662521,Web activity occurred across many days
+36546,3,behavioral_risk_3week_avg,7,1.42366484,Suspicious behavior stayed elevated over several weeks
+34625,1,total_activity,514,2.527041604,Overall system activity was unusually high
+34625,2,combined_risk,3.803471445,2.117907575,Multiple risk signals increased at the same time
+34625,3,behavioral_risk_3week_avg,6.666666667,1.109569487,Suspicious behavior stayed elevated over several weeks
+8830,1,combined_risk,2.614221725,3.095773822,Multiple risk signals increased at the same time
+8830,2,total_activity,156,1.450064727,Overall system activity was unusually high
+8830,3,behavioral_risk_3week_avg,5,0.642901681,Suspicious behavior stayed elevated over several weeks
+34988,1,combined_risk,4.124486749,2.812097351,Multiple risk signals increased at the same time
+34988,2,http_weekly_active_days,7.407214,2.154226112,Web activity occurred across many days
+34988,3,behavioral_risk_3week_avg,8,1.420942787,Suspicious behavior stayed elevated over several weeks
+17378,1,total_activity,362,3.612531747,Overall system activity was unusually high
+17378,2,file_activity,162,1.154562519,File-related activity was unusually high
+17378,3,behavioral_risk_3week_avg,6,0.467483564,Suspicious behavior stayed elevated over several weeks
+10928,1,combined_risk,3.70735349,2.656796714,Multiple risk signals increased at the same time
+10928,2,total_activity,340,2.526346001,Overall system activity was unusually high
+10928,3,file_activity,143,1.184690369,File-related activity was unusually high
+40288,1,combined_risk,3.066442703,3.962142971,Multiple risk signals increased at the same time
+40288,2,http_weekly_active_days,5.504626106,1.392039602,Web activity occurred across many days
+40288,3,behavioral_risk_3week_avg,6,0.40005579,Suspicious behavior stayed elevated over several weeks
+41529,1,total_activity,226,2.409099379,Overall system activity was unusually high
+41529,2,combined_risk,3.128592758,2.104844408,Multiple risk signals increased at the same time
+41529,3,behavioral_risk_3week_avg,6.666666667,1.342800477,Suspicious behavior stayed elevated over several weeks
+34398,1,total_activity,238,3.126103802,Overall system activity was unusually high
+34398,2,combined_risk,3.160507652,2.745619518,Multiple risk signals increased at the same time
+34398,3,file_activity,56,0.515626553,File-related activity was unusually high
+40091,1,combined_risk,3.112355356,3.365079415,Multiple risk signals increased at the same time
+40091,2,total_activity,190,1.375145351,Overall system activity was unusually high
+40091,3,file_activity,96,1.090825577,File-related activity was unusually high
+20303,1,combined_risk,2.615901456,2.644676511,Multiple risk signals increased at the same time
+20303,2,total_activity,205,2.571607169,Overall system activity was unusually high
+20303,3,device_weekly_avg_device_connections_per_day,4.233060668,0.455423292,Daily external device usage was unusually high
+30426,1,combined_risk,3.602650243,2.935754353,Multiple risk signals increased at the same time
+30426,2,http_weekly_active_days,5.504626106,1.916086834,Web activity occurred across many days
+30426,3,behavioral_risk_3week_avg,7,1.426363612,Suspicious behavior stayed elevated over several weeks
+7519,1,combined_risk,2.609929078,2.759937972,Multiple risk signals increased at the same time
+7519,2,total_activity,171,1.739397384,Overall system activity was unusually high
+7519,3,behavioral_risk_3week_avg,5,0.483915963,Suspicious behavior stayed elevated over several weeks
+8204,1,total_activity,423,2.556347435,Overall system activity was unusually high
+8204,2,combined_risk,4.241694662,1.756258195,Multiple risk signals increased at the same time
+8204,3,file_activity,219,1.070071333,File-related activity was unusually high
+36460,1,combined_risk,4.093131766,3.598869437,Multiple risk signals increased at the same time
+36460,2,http_weekly_active_days,5.504626106,1.822702973,Web activity occurred across many days
+36460,3,behavioral_risk_3week_avg,8,1.409953853,Suspicious behavior stayed elevated over several weeks
+35161,1,combined_risk,3.047219112,2.926473166,Multiple risk signals increased at the same time
+35161,2,file_weekly_total_file_events,6.537618942,1.69470012,File access activity was unusually high
+35161,3,risk_change,-35.1,1.076315443,Network-related risk increased compared with the previous week
+17474,1,combined_risk,3.063456514,3.998246095,Multiple risk signals increased at the same time
+17474,2,http_weekly_active_days,5.504626106,1.726812284,Web activity occurred across many days
+17474,3,behavioral_risk_3week_avg,6,0.399980896,Suspicious behavior stayed elevated over several weeks
+21470,1,total_activity,447,2.731321874,Overall system activity was unusually high
+21470,2,combined_risk,3.764464352,1.951584968,Multiple risk signals increased at the same time
+21470,3,behavioral_risk_3week_avg,6.666666667,1.023481286,Suspicious behavior stayed elevated over several weeks
+1540,1,combined_risk,2.642777156,2.875371429,Multiple risk signals increased at the same time
+1540,2,total_activity,208,2.550412515,Overall system activity was unusually high
+1540,3,email_weekly_emails_with_attachments,3.077008757,0.277340134,Many emails included attachments
+40102,1,combined_risk,3.146509892,3.084679854,Multiple risk signals increased at the same time
+40102,2,total_activity,248,2.261535457,Overall system activity was unusually high
+40102,3,file_activity,127,1.06282694,File-related activity was unusually high
+24642,1,combined_risk,3.671332587,3.014570499,Multiple risk signals increased at the same time
+24642,2,total_activity,290,2.509857938,Overall system activity was unusually high
+24642,3,file_activity,135,1.094517094,File-related activity was unusually high
+26704,1,combined_risk,3.062709966,4.026334872,Multiple risk signals increased at the same time
+26704,2,http_weekly_active_days,5.504626106,1.726860493,Web activity occurred across many days
+26704,3,behavioral_risk_3week_avg,6,0.400884303,Suspicious behavior stayed elevated over several weeks
+11028,1,combined_risk,2.612355356,2.825999264,Multiple risk signals increased at the same time
+11028,2,total_activity,173,1.582245284,Overall system activity was unusually high
+11028,3,behavioral_risk_3week_avg,5.666666667,0.510286986,Suspicious behavior stayed elevated over several weeks
+30476,1,total_activity,312,3.645163665,Overall system activity was unusually high
+30476,2,combined_risk,2.697275103,2.337965734,Multiple risk signals increased at the same time
+30476,3,device_weekly_avg_device_connections_per_day,4.28778269,0.905212668,Daily external device usage was unusually high
+41539,1,combined_risk,3.125046659,3.049251807,Multiple risk signals increased at the same time
+41539,2,total_activity,220,2.124105704,Overall system activity was unusually high
+41539,3,file_activity,117,1.068423976,File-related activity was unusually high
+8423,1,combined_risk,4.124673386,2.876686256,Multiple risk signals increased at the same time
+8423,2,http_weekly_active_days,7.407214,2.400094391,Web activity occurred across many days
+8423,3,behavioral_risk_3week_avg,8,1.423459974,Suspicious behavior stayed elevated over several weeks
+5355,1,combined_risk,3.175438596,3.331389583,Multiple risk signals increased at the same time
+5355,2,total_activity,285,3.303833744,Overall system activity was unusually high
+5355,3,device_weekly_avg_device_connections_per_day,4.451948756,0.828053585,Daily external device usage was unusually high
+20795,1,total_activity,254,2.883066677,Overall system activity was unusually high
+20795,2,combined_risk,4.169279582,2.515919184,Multiple risk signals increased at the same time
+20795,3,http_weekly_active_days,5.504626106,1.735192149,Web activity occurred across many days
+9867,1,combined_risk,3.151549085,3.078622971,Multiple risk signals increased at the same time
+9867,2,total_activity,257,2.416844056,Overall system activity was unusually high
+9867,3,file_activity,132,1.094882743,File-related activity was unusually high
+34632,1,total_activity,290,2.477081547,Overall system activity was unusually high
+34632,2,combined_risk,3.67114595,1.327086325,Multiple risk signals increased at the same time
+34632,3,file_activity,137,1.273801589,File-related activity was unusually high
+28005,1,total_activity,237,2.924891311,Overall system activity was unusually high
+28005,2,combined_risk,2.640350877,2.55660649,Multiple risk signals increased at the same time
+28005,3,file_activity,116,1.178559027,File-related activity was unusually high
+39470,1,combined_risk,3.602276969,3.591516852,Multiple risk signals increased at the same time
+39470,2,http_weekly_active_days,5.504626106,2.088846791,Web activity occurred across many days
+39470,3,behavioral_risk_3week_avg,7,1.416166645,Suspicious behavior stayed elevated over several weeks
+16128,1,combined_risk,3.141843972,3.086510364,Multiple risk signals increased at the same time
+16128,2,total_activity,240,2.283479284,Overall system activity was unusually high
+16128,3,file_activity,110,1.052043644,File-related activity was unusually high
+16102,1,total_activity,484,2.665555196,Overall system activity was unusually high
+16102,2,combined_risk,3.785740948,2.01260681,Multiple risk signals increased at the same time
+16102,3,file_activity,240,1.095038728,File-related activity was unusually high
+27625,1,total_activity,192,3.266237783,Overall system activity was unusually high
+27625,2,combined_risk,2.10862262,0.752885148,Multiple risk signals increased at the same time
+27625,3,behavioral_risk_3week_avg,4.333333333,0.526941244,Suspicious behavior stayed elevated over several weeks
+2643,1,combined_risk,3.079134005,4.251981708,Multiple risk signals increased at the same time
+2643,2,http_weekly_active_days,5.504626106,1.891642651,Web activity occurred across many days
+2643,3,total_activity,107,0.490753407,Overall system activity was unusually high
+6561,1,combined_risk,4.069988802,2.101613822,Multiple risk signals increased at the same time
+6561,2,behavioral_risk_3week_avg,8,1.370741993,Suspicious behavior stayed elevated over several weeks
+6561,3,device_weekly_distinct_pcs_used,9.437053609,1.079062529,External devices were used on multiple computers
+34083,1,total_activity,256,3.336781301,Overall system activity was unusually high
+34083,2,combined_risk,3.166666667,3.041144488,Multiple risk signals increased at the same time
+34083,3,file_activity,63,0.533989759,File-related activity was unusually high
+14120,1,combined_risk,4.128406122,2.801111165,Multiple risk signals increased at the same time
+14120,2,http_weekly_active_days,5.504626106,1.949916246,Web activity occurred across many days
+14120,3,total_activity,185,1.509009413,Overall system activity was unusually high
+3841,1,combined_risk,4.085106383,2.172956081,Multiple risk signals increased at the same time
+3841,2,behavioral_risk_3week_avg,7,1.445595309,Suspicious behavior stayed elevated over several weeks
+3841,3,device_weekly_distinct_pcs_used,11.04996028,1.088315148,External devices were used on multiple computers
+3323,1,combined_risk,3.598544233,3.591516852,Multiple risk signals increased at the same time
+3323,2,http_weekly_active_days,5.504626106,2.094309521,Web activity occurred across many days
+3323,3,behavioral_risk_3week_avg,7,1.416701348,Suspicious behavior stayed elevated over several weeks
+41514,1,total_activity,434,2.711360996,Overall system activity was unusually high
+41514,2,combined_risk,4.247853677,1.680968338,Multiple risk signals increased at the same time
+41514,3,file_activity,234,1.094517094,File-related activity was unusually high
+39224,1,combined_risk,2.618514371,3.218380243,Multiple risk signals increased at the same time
+39224,2,total_activity,183,2.019212856,Overall system activity was unusually high
+39224,3,behavioral_risk_3week_avg,5,0.454623251,Suspicious behavior stayed elevated over several weeks
+41546,1,combined_risk,3.123553565,3.027039331,Multiple risk signals increased at the same time
+41546,2,total_activity,217,2.05464583,Overall system activity was unusually high
+41546,3,file_activity,117,1.006317385,File-related activity was unusually high
+33886,1,combined_risk,3.125979843,3.146741473,Multiple risk signals increased at the same time
+33886,2,total_activity,177,1.568124123,Overall system activity was unusually high
+33886,3,email_weekly_emails_with_attachments,5.021728115,0.380705074,Many emails included attachments
+5856,1,combined_risk,4.119260918,2.614953515,Multiple risk signals increased at the same time
+5856,2,total_activity,180,1.730998163,Overall system activity was unusually high
+5856,3,behavioral_risk_3week_avg,8,1.380387156,Suspicious behavior stayed elevated over several weeks
+489,1,combined_risk,3.064949608,4.038248575,Multiple risk signals increased at the same time
+489,2,http_weekly_active_days,5.504626106,1.727377403,Web activity occurred across many days
+489,3,behavioral_risk_3week_avg,6,0.399980896,Suspicious behavior stayed elevated over several weeks
+19883,1,total_activity,245,3.273075636,Overall system activity was unusually high
+19883,2,behavioral_risk_3week_avg,7,1.34435868,Suspicious behavior stayed elevated over several weeks
+19883,3,combined_risk,2.661067563,1.011959182,Multiple risk signals increased at the same time
+20244,1,combined_risk,3.122433744,3.096161252,Multiple risk signals increased at the same time
+20244,2,total_activity,170,1.588526534,Overall system activity was unusually high
+20244,3,behavioral_risk_3week_avg,5,0.384645874,Suspicious behavior stayed elevated over several weeks
+39389,1,total_activity,533,2.75024571,Overall system activity was unusually high
+39389,2,combined_risk,3.323441583,2.119671691,Multiple risk signals increased at the same time
+39389,3,behavioral_risk_3week_avg,6.666666667,1.332741641,Suspicious behavior stayed elevated over several weeks
+9376,1,total_activity,294,3.401909091,Overall system activity was unusually high
+9376,2,combined_risk,2.681970885,2.95925227,Multiple risk signals increased at the same time
+9376,3,device_weekly_avg_device_connections_per_day,3.740562471,0.528534162,Daily external device usage was unusually high
+19781,1,total_activity,161,2.494123004,Overall system activity was unusually high
+19781,2,combined_risk,2.103023516,1.4372176,Multiple risk signals increased at the same time
+19781,3,device_weekly_avg_device_connections_per_day,4.28778269,0.865751332,Daily external device usage was unusually high
+3467,1,total_activity,235,3.219431022,Overall system activity was unusually high
+3467,2,combined_risk,3.172265771,2.916551303,Multiple risk signals increased at the same time
+3467,3,email_weekly_emails_with_attachments,4.243840372,0.314696003,Many emails included attachments
+9652,1,combined_risk,3.110862262,2.884267803,Multiple risk signals increased at the same time
+9652,2,total_activity,158,1.109846389,Overall system activity was unusually high
+9652,3,behavioral_risk_3week_avg,5,0.382481227,Suspicious behavior stayed elevated over several weeks
+32604,1,combined_risk,3.589399029,3.757638762,Multiple risk signals increased at the same time
+32604,2,behavioral_risk_3week_avg,5.666666667,0.384108095,Suspicious behavior stayed elevated over several weeks
+32604,3,email_weekly_emails_with_attachments,7.160919408,0.37150892,Many emails included attachments
+28001,1,combined_risk,3.167786487,3.11323435,Multiple risk signals increased at the same time
+28001,2,total_activity,284,2.42974674,Overall system activity was unusually high
+28001,3,file_activity,143,1.052043644,File-related activity was unusually high
+18660,1,total_activity,297,3.268746161,Overall system activity was unusually high
+18660,2,combined_risk,3.18402389,2.217911164,Multiple risk signals increased at the same time
+18660,3,behavioral_risk_3week_avg,7.333333333,0.996914107,Suspicious behavior stayed elevated over several weeks
+9834,1,total_activity,521,2.624433318,Overall system activity was unusually high
+9834,2,combined_risk,3.807764091,2.017110128,Multiple risk signals increased at the same time
+9834,3,file_activity,252,1.076891593,File-related activity was unusually high
+7513,1,combined_risk,2.620940649,2.760077291,Multiple risk signals increased at the same time
+7513,2,total_activity,188,2.097992943,Overall system activity was unusually high
+7513,3,file_activity,58,0.449148866,File-related activity was unusually high
+8216,1,combined_risk,3.206606943,2.966343555,Multiple risk signals increased at the same time
+8216,2,total_activity,362,2.732992651,Overall system activity was unusually high
+8216,3,file_activity,181,1.094517094,File-related activity was unusually high
+26206,1,total_activity,238,2.683250888,Overall system activity was unusually high
+26206,2,combined_risk,4.160134378,2.397568049,Multiple risk signals increased at the same time
+26206,3,http_weekly_active_days,5.504626106,1.93166142,Web activity occurred across many days
+39399,1,total_activity,220,2.087554266,Overall system activity was unusually high
+39399,2,combined_risk,3.132698768,2.063558724,Multiple risk signals increased at the same time
+39399,3,behavioral_risk_3week_avg,6.666666667,1.343381091,Suspicious behavior stayed elevated over several weeks
+34646,1,combined_risk,3.153228817,3.105346957,Multiple risk signals increased at the same time
+34646,2,total_activity,260,2.376692521,Overall system activity was unusually high
+34646,3,file_activity,131,1.078601371,File-related activity was unusually high
+20207,1,total_activity,522,2.738589389,Overall system activity was unusually high
+20207,2,combined_risk,3.817282568,1.951583233,Multiple risk signals increased at the same time
+20207,3,file_activity,230,1.095038728,File-related activity was unusually high
+35773,1,total_activity,228,3.43194068,Overall system activity was unusually high
+35773,2,combined_risk,2.647443076,2.537636052,Multiple risk signals increased at the same time
+35773,3,file_activity,64,0.528286646,File-related activity was unusually high
+12241,1,combined_risk,4.086412841,3.564371886,Multiple risk signals increased at the same time
+12241,2,device_weekly_distinct_pcs_used,11.04996028,1.112137044,External devices were used on multiple computers
+12241,3,logon_weekly_distinct_pcs,5.150565866,0.501637163,Logins came from multiple computers
+40104,1,combined_risk,3.086599477,3.727016099,Multiple risk signals increased at the same time
+40104,2,file_weekly_total_file_events,6.172976651,0.957989155,File access activity was unusually high
+40104,3,device_weekly_avg_device_connections_per_day,4.014172581,0.645500123,Daily external device usage was unusually high
+16094,1,total_activity,487,2.656110589,Overall system activity was unusually high
+16094,2,combined_risk,4.287607316,1.703368374,Multiple risk signals increased at the same time
+16094,3,file_activity,231,1.104155161,File-related activity was unusually high
+24645,1,combined_risk,3.704180664,3.079107823,Multiple risk signals increased at the same time
+24645,2,total_activity,345,2.668227151,Overall system activity was unusually high
+24645,3,file_activity,163,1.097126573,File-related activity was unusually high
+25293,1,combined_risk,4.121127286,2.5740343,Multiple risk signals increased at the same time
+25293,2,total_activity,188,1.719511923,Overall system activity was unusually high
+25293,3,http_weekly_active_days,5.504626106,1.642979577,Web activity occurred across many days
+4758,1,combined_risk,3.130459127,3.081375185,Multiple risk signals increased at the same time
+4758,2,total_activity,229,2.171073534,Overall system activity was unusually high
+4758,3,file_activity,120,1.077257242,File-related activity was unusually high
+16515,1,combined_risk,4.081373647,2.536500625,Multiple risk signals increased at the same time
+16515,2,behavioral_risk_3week_avg,7.666666667,1.4804097,Suspicious behavior stayed elevated over several weeks
+16515,3,device_weekly_distinct_pcs_used,11.04996028,1.104293204,External devices were used on multiple computers
+19888,1,total_activity,246,3.156809361,Overall system activity was unusually high
+19888,2,combined_risk,2.663867115,2.561128241,Multiple risk signals increased at the same time
+19888,3,file_activity,68,0.466769975,File-related activity was unusually high
+27983,1,total_activity,513,2.683000338,Overall system activity was unusually high
+27983,2,combined_risk,3.804777902,1.960906913,Multiple risk signals increased at the same time
+27983,3,behavioral_risk_3week_avg,6.666666667,1.292283418,Suspicious behavior stayed elevated over several weeks
+3553,1,combined_risk,2.639417693,2.620290759,Multiple risk signals increased at the same time
+3553,2,total_activity,206,2.476405854,Overall system activity was unusually high
+3553,3,email_weekly_active_days,2.006391425,-0.233498659,Email activity occurred across many days
+24649,1,combined_risk,3.182904069,3.082315628,Multiple risk signals increased at the same time
+24649,2,total_activity,310,2.483970828,Overall system activity was unusually high
+24649,3,file_activity,150,1.076891593,File-related activity was unusually high
+17554,1,combined_risk,3.215005599,3.075800255,Multiple risk signals increased at the same time
+17554,2,total_activity,360,2.45498032,Overall system activity was unusually high
+17554,3,file_activity,182,1.078235722,File-related activity was unusually high
+31973,1,combined_risk,3.053004853,3.973742181,Multiple risk signals increased at the same time
+31973,2,http_weekly_active_days,5.504626106,1.547653202,Web activity occurred across many days
+31973,3,behavioral_risk_3week_avg,6,0.358078833,Suspicious behavior stayed elevated over several weeks
+6576,1,combined_risk,3.586786114,2.23266223,Multiple risk signals increased at the same time
+6576,2,behavioral_risk_3week_avg,6.666666667,1.445558441,Suspicious behavior stayed elevated over several weeks
+6576,3,device_weekly_distinct_pcs_used,9.437053609,1.088315148,External devices were used on multiple computers
+4775,1,total_activity,423,3.100823248,Overall system activity was unusually high
+4775,2,combined_risk,2.737775289,2.552341262,Multiple risk signals increased at the same time
+4775,3,file_activity,234,1.170790306,File-related activity was unusually high
+7015,1,combined_risk,3.601530422,3.591516852,Multiple risk signals increased at the same time
+7015,2,http_weekly_active_days,5.504626106,2.094309521,Web activity occurred across many days
+7015,3,behavioral_risk_3week_avg,7,1.416701348,Suspicious behavior stayed elevated over several weeks
+39644,1,combined_risk,2.589399029,2.39252483,Multiple risk signals increased at the same time
+39644,2,device_change,-64,1.10484432,Device usage changed sharply compared with the previous week
+39644,3,device_weekly_avg_device_connections_per_day,3.904728537,0.796625027,Daily external device usage was unusually high
+12233,1,combined_risk,3.082866741,1.97167666,Multiple risk signals increased at the same time
+12233,2,behavioral_risk_3week_avg,7.333333333,1.400774262,Suspicious behavior stayed elevated over several weeks
+12233,3,device_weekly_distinct_pcs_used,2.985426918,1.063084473,External devices were used on multiple computers
+34994,1,combined_risk,2.627099664,2.668924636,Multiple risk signals increased at the same time
+34994,2,total_activity,177,1.758716638,Overall system activity was unusually high
+34994,3,behavioral_risk_3week_avg,4.666666667,0.547333572,Suspicious behavior stayed elevated over several weeks
+34993,1,combined_risk,2.623553565,2.884680787,Multiple risk signals increased at the same time
+34993,2,total_activity,176,1.575200367,Overall system activity was unusually high
+34993,3,email_weekly_emails_with_attachments,3.174244725,0.294587802,Many emails included attachments
+16576,1,combined_risk,3.564203061,3.751988304,Multiple risk signals increased at the same time
+16576,2,http_weekly_active_days,5.504626106,1.843794976,Web activity occurred across many days
+16576,3,behavioral_risk_3week_avg,7,1.389089709,Suspicious behavior stayed elevated over several weeks
+18688,1,combined_risk,2.598544233,2.870193573,Multiple risk signals increased at the same time
+18688,2,total_activity,160,1.297177182,Overall system activity was unusually high
+18688,3,device_weekly_avg_device_connections_per_day,4.123616624,0.465413403,Daily external device usage was unusually high
+32680,1,combined_risk,3.168719672,3.077590189,Multiple risk signals increased at the same time
+32680,2,total_activity,276,2.551395329,Overall system activity was unusually high
+32680,3,file_activity,110,1.050699515,File-related activity was unusually high
+5545,1,total_activity,305,2.153601513,Overall system activity was unusually high
+5545,2,combined_risk,4.681970885,1.65508682,Multiple risk signals increased at the same time
+5545,3,file_activity,87,1.118379629,File-related activity was unusually high
+8951,1,combined_risk,3.541620007,3.80083499,Multiple risk signals increased at the same time
+8951,2,http_weekly_active_days,5.504626106,1.617459763,Web activity occurred across many days
+8951,3,behavioral_risk_3week_avg,7,1.357571783,Suspicious behavior stayed elevated over several weeks
+5548,1,total_activity,239,2.576932955,Overall system activity was unusually high
+5548,2,combined_risk,4.643150429,1.817146022,Multiple risk signals increased at the same time
+5548,3,behavioral_risk_3week_avg,8.666666667,1.034647076,Suspicious behavior stayed elevated over several weeks
+28733,1,combined_risk,4.107129526,1.87575324,Multiple risk signals increased at the same time
+28733,2,behavioral_risk_3week_avg,6.666666667,1.389553819,Suspicious behavior stayed elevated over several weeks
+28733,3,total_activity,156,1.049697157,Overall system activity was unusually high
+20231,1,combined_risk,3.160507652,3.084678118,Multiple risk signals increased at the same time
+20231,2,total_activity,265,2.379027018,Overall system activity was unusually high
+20231,3,file_activity,120,1.077257242,File-related activity was unusually high
+17976,1,combined_risk,2.620940649,3.043938648,Multiple risk signals increased at the same time
+17976,2,total_activity,184,2.055536735,Overall system activity was unusually high
+17976,3,behavioral_risk_3week_avg,4.666666667,0.346881085,Suspicious behavior stayed elevated over several weeks
+19323,1,total_activity,261,4.414632701,Overall system activity was unusually high
+19323,2,behavioral_risk_change,-5,2.267768132,Behavior became riskier compared with the previous week
+19323,3,file_activity,109,1.422189254,File-related activity was unusually high
+5069,1,total_activity,498,2.641815668,Overall system activity was unusually high
+5069,2,combined_risk,3.794699515,2.01281646,Multiple risk signals increased at the same time
+5069,3,file_activity,229,1.095038728,File-related activity was unusually high
+30516,1,total_activity,191,3.433226393,Overall system activity was unusually high
+30516,2,combined_risk,2.122807018,0.909317866,Multiple risk signals increased at the same time
+30516,3,device_activity,102,-0.694632786,External device activity was unusually high
+39393,1,total_activity,535,2.917235517,Overall system activity was unusually high
+39393,2,combined_risk,3.324561404,2.015109527,Multiple risk signals increased at the same time
+39393,3,behavioral_risk_3week_avg,6.666666667,1.153381046,Suspicious behavior stayed elevated over several weeks
+21281,1,combined_risk,4.072041807,3.661259521,Multiple risk signals increased at the same time
+21281,2,http_weekly_active_days,5.504626106,1.891990342,Web activity occurred across many days
+21281,3,behavioral_risk_3week_avg,8,1.384329951,Suspicious behavior stayed elevated over several weeks
+19940,1,total_activity,235,4.686440612,Overall system activity was unusually high
+19940,2,logon_weekly_active_days,-2.122578512,0.957093198,Login activity occurred across many days
+19940,3,behavioral_risk_3week_avg,4.666666667,0.807716489,Suspicious behavior stayed elevated over several weeks
+22632,1,total_activity,194,2.527638386,Overall system activity was unusually high
+22632,2,combined_risk,2.624113475,2.29303106,Multiple risk signals increased at the same time
+22632,3,file_activity,61,0.49450701,File-related activity was unusually high
+16499,1,total_activity,283,2.358641679,Overall system activity was unusually high
+16499,2,combined_risk,4.176745054,1.622354015,Multiple risk signals increased at the same time
+16499,3,behavioral_risk_3week_avg,8.666666667,1.300185583,Suspicious behavior stayed elevated over several weeks
+37912,1,combined_risk,3.059723778,3.947402689,Multiple risk signals increased at the same time
+37912,2,http_weekly_active_days,5.504626106,1.339608606,Web activity occurred across many days
+37912,3,behavioral_risk_3week_avg,6,0.399446193,Suspicious behavior stayed elevated over several weeks
+40061,1,total_activity,480,2.414460963,Overall system activity was unusually high
+40061,2,combined_risk,4.282568122,2.262205443,Multiple risk signals increased at the same time
+40061,3,behavioral_risk_3week_avg,8,1.337724173,Suspicious behavior stayed elevated over several weeks
+30567,1,total_activity,216,3.810842612,Overall system activity was unusually high
+30567,2,combined_risk,2.148002986,0.799168073,Multiple risk signals increased at the same time
+30567,3,behavioral_risk_3week_avg,5.333333333,0.460272351,Suspicious behavior stayed elevated over several weeks
+3852,1,combined_risk,3.073721538,3.271069565,Multiple risk signals increased at the same time
+3852,2,device_weekly_distinct_pcs_used,6.211240264,1.115825855,External devices were used on multiple computers
+3852,3,logon_weekly_distinct_pcs,3.080401204,0.624353881,Logins came from multiple computers
+24634,1,total_activity,305,2.541742238,Overall system activity was unusually high
+24634,2,combined_risk,3.178798059,2.099892258,Multiple risk signals increased at the same time
+24634,3,behavioral_risk_3week_avg,6.666666667,1.103006543,Suspicious behavior stayed elevated over several weeks
+11204,1,total_activity,208,2.621760678,Overall system activity was unusually high
+11204,2,combined_risk,2.632512131,2.488822936,Multiple risk signals increased at the same time
+11204,3,file_activity,54,0.493985377,File-related activity was unusually high
+21467,1,total_activity,436,2.730720065,Overall system activity was unusually high
+21467,2,combined_risk,3.756625607,1.951584968,Multiple risk signals increased at the same time
+21467,3,file_activity,212,1.094261967,File-related activity was unusually high
+28076,1,behavioral_risk_3week_avg,7,1.555096859,Suspicious behavior stayed elevated over several weeks
+28076,2,combined_risk,2.589585666,1.221447899,Multiple risk signals increased at the same time
+28076,3,logon_weekly_distinct_pcs,1.424269474,1.079448633,Logins came from multiple computers
+24635,1,combined_risk,3.648189623,3.014570499,Multiple risk signals increased at the same time
+24635,2,total_activity,252,2.29415369,Overall system activity was unusually high
+24635,3,file_activity,123,1.094517094,File-related activity was unusually high
+19219,1,combined_risk,3.611235536,3.556628216,Multiple risk signals increased at the same time
+19219,2,http_weekly_active_days,5.504626106,2.088846791,Web activity occurred across many days
+19219,3,behavioral_risk_3week_avg,7,1.416127612,Suspicious behavior stayed elevated over several weeks
+18129,1,total_activity,441,2.247813959,Overall system activity was unusually high
+18129,2,combined_risk,4.764650989,1.677952891,Multiple risk signals increased at the same time
+18129,3,file_activity,109,1.135055593,File-related activity was unusually high
+24581,1,total_activity,285,3.196957115,Overall system activity was unusually high
+24581,2,combined_risk,3.695222098,2.806148114,Multiple risk signals increased at the same time
+24581,3,file_activity,52,0.499030815,File-related activity was unusually high
+11205,1,combined_risk,2.619074281,3.174940555,Multiple risk signals increased at the same time
+11205,2,total_activity,185,2.228088067,Overall system activity was unusually high
+11205,3,behavioral_risk_3week_avg,5,0.350202726,Suspicious behavior stayed elevated over several weeks
+5299,1,total_activity,202,3.472977706,Overall system activity was unusually high
+5299,2,combined_risk,2.13549832,0.79597594,Multiple risk signals increased at the same time
+5299,3,behavioral_risk_3week_avg,4.333333333,0.55599662,Suspicious behavior stayed elevated over several weeks
+1045,1,total_activity,235,2.794715755,Overall system activity was unusually high
+1045,2,combined_risk,3.632698768,1.912677436,Multiple risk signals increased at the same time
+1045,3,behavioral_risk_3week_avg,7,1.267852834,Suspicious behavior stayed elevated over several weeks
+24646,1,total_activity,297,2.526189681,Overall system activity was unusually high
+24646,2,combined_risk,3.675625233,2.028879151,Multiple risk signals increased at the same time
+24646,3,behavioral_risk_3week_avg,6.666666667,1.307609331,Suspicious behavior stayed elevated over several weeks
+29261,1,combined_risk,4.070175439,3.699088725,Multiple risk signals increased at the same time
+29261,2,http_weekly_active_days,7.407214,2.331605793,Web activity occurred across many days
+29261,3,behavioral_risk_3week_avg,8,1.389994048,Suspicious behavior stayed elevated over several weeks
+30511,1,total_activity,219,2.827882224,Overall system activity was unusually high
+30511,2,combined_risk,2.639417693,2.769552404,Multiple risk signals increased at the same time
+30511,3,device_weekly_avg_device_connections_per_day,4.28778269,0.748365324,Daily external device usage was unusually high
+22677,1,combined_risk,2.618887645,2.692397295,Multiple risk signals increased at the same time
+22677,2,total_activity,169,1.601300416,Overall system activity was unusually high
+22677,3,behavioral_risk_3week_avg,5,0.39749926,Suspicious behavior stayed elevated over several weeks
+24652,1,combined_risk,3.18402389,3.010589653,Multiple risk signals increased at the same time
+24652,2,total_activity,312,2.547394194,Overall system activity was unusually high
+24652,3,file_activity,156,1.094517094,File-related activity was unusually high
+10994,1,combined_risk,3.073161627,3.411796365,Multiple risk signals increased at the same time
+10994,2,logon_weekly_distinct_pcs,7.220730528,1.240311616,Logins came from multiple computers
+10994,3,behavioral_risk_3week_avg,5,0.414155658,Suspicious behavior stayed elevated over several weeks
+1412,1,total_activity,618,2.709489638,Overall system activity was unusually high
+1412,2,combined_risk,3.365434864,1.574798356,Multiple risk signals increased at the same time
+1412,3,behavioral_risk_3week_avg,8.333333333,1.152958633,Suspicious behavior stayed elevated over several weeks
+1434,1,total_activity,292,1.983654904,Overall system activity was unusually high
+1434,2,combined_risk,4.173012318,1.638013442,Multiple risk signals increased at the same time
+1434,3,behavioral_risk_3week_avg,8,1.045362903,Suspicious behavior stayed elevated over several weeks
+34844,1,combined_risk,2.577640911,2.303265844,Multiple risk signals increased at the same time
+34844,2,logon_weekly_distinct_pcs,3.080401204,1.299080489,Logins came from multiple computers
+34844,3,behavioral_risk_3week_avg,5.333333333,0.552784202,Suspicious behavior stayed elevated over several weeks
+39708,1,combined_risk,3.564949608,3.752094898,Multiple risk signals increased at the same time
+39708,2,http_weekly_active_days,5.504626106,1.843803319,Web activity occurred across many days
+39708,3,behavioral_risk_3week_avg,7,1.389164604,Suspicious behavior stayed elevated over several weeks
+21466,1,total_activity,487,2.746156463,Overall system activity was unusually high
+21466,2,combined_risk,3.787607316,1.951375318,Multiple risk signals increased at the same time
+21466,3,file_activity,231,1.094261967,File-related activity was unusually high
+33147,1,combined_risk,3.579880552,3.586912729,Multiple risk signals increased at the same time
+33147,2,http_weekly_active_days,5.504626106,1.952096282,Web activity occurred across many days
+33147,3,behavioral_risk_3week_avg,7,1.424274438,Suspicious behavior stayed elevated over several weeks
+20212,1,combined_risk,3.159014558,3.054710814,Multiple risk signals increased at the same time
+20212,2,total_activity,262,2.511220718,Overall system activity was unusually high
+20212,3,file_activity,106,1.094882743,File-related activity was unusually high
+9857,1,combined_risk,3.14427025,3.013052865,Multiple risk signals increased at the same time
+9857,2,total_activity,244,2.371876027,Overall system activity was unusually high
+9857,3,file_activity,113,1.068325016,File-related activity was unusually high
+26317,1,combined_risk,3.611235536,3.556628216,Multiple risk signals increased at the same time
+26317,2,http_weekly_active_days,5.504626106,2.094309521,Web activity occurred across many days
+26317,3,behavioral_risk_3week_avg,7,1.416662315,Suspicious behavior stayed elevated over several weeks
+1238,1,combined_risk,3.067935797,3.156032159,Multiple risk signals increased at the same time
+1238,2,file_weekly_total_file_events,5.339508558,1.08574272,File access activity was unusually high
+1238,3,file_activity,48,0.523809831,File-related activity was unusually high
+34641,1,combined_risk,3.145390071,3.010589653,Multiple risk signals increased at the same time
+34641,2,total_activity,248,2.295142642,Overall system activity was unusually high
+34641,3,file_activity,122,1.094517094,File-related activity was unusually high
+16096,1,total_activity,502,2.732773799,Overall system activity was unusually high
+16096,2,combined_risk,3.79675252,1.952572804,Multiple risk signals increased at the same time
+16096,3,file_activity,239,1.094517094,File-related activity was unusually high
+3816,1,total_activity,251,2.15691053,Overall system activity was unusually high
+3816,2,combined_risk,4.160134378,1.555126712,Multiple risk signals increased at the same time
+3816,3,http_weekly_active_days,5.504626106,1.491442533,Web activity occurred across many days
+24640,1,total_activity,259,3.103181928,Overall system activity was unusually high
+24640,2,combined_risk,2.65248227,2.553022364,Multiple risk signals increased at the same time
+24640,3,file_activity,129,1.172134435,File-related activity was unusually high
+6417,1,total_activity,159,1.883271221,Overall system activity was unusually high
+6417,2,file_activity,132,1.093601059,File-related activity was unusually high
+6417,3,combined_risk,2.090705487,0.989610626,Multiple risk signals increased at the same time
+9381,1,combined_risk,3.167599851,3.351311742,Multiple risk signals increased at the same time
+9381,2,total_activity,268,3.180531839,Overall system activity was unusually high
+9381,3,device_weekly_avg_device_connections_per_day,4.123616624,0.571782161,Daily external device usage was unusually high
+1246,1,total_activity,195,2.887561575,Overall system activity was unusually high
+1246,2,file_activity,135,0.998241406,File-related activity was unusually high
+1246,3,behavioral_risk_3week_avg,5,0.53872333,Suspicious behavior stayed elevated over several weeks
+17469,1,total_activity,163,2.271305119,Overall system activity was unusually high
+17469,2,combined_risk,2.098917507,1.311476074,Multiple risk signals increased at the same time
+17469,3,behavioral_risk_3week_avg,4.666666667,0.836766915,Suspicious behavior stayed elevated over several weeks
+7507,1,combined_risk,2.620754013,2.860081782,Multiple risk signals increased at the same time
+7507,2,total_activity,187,2.135864841,Overall system activity was unusually high
+7507,3,file_activity,63,0.474880457,File-related activity was unusually high
+23270,1,combined_risk,2.610862262,3.015200833,Multiple risk signals increased at the same time
+23270,2,total_activity,177,1.603123615,Overall system activity was unusually high
+23270,3,device_weekly_avg_device_connections_per_day,4.451948756,0.724402159,Daily external device usage was unusually high
+6095,1,combined_risk,3.111048899,2.968864198,Multiple risk signals increased at the same time
+6095,2,total_activity,154,1.076239534,Overall system activity was unusually high
+6095,3,behavioral_risk_3week_avg,5.333333333,0.405954352,Suspicious behavior stayed elevated over several weeks
+26636,1,total_activity,279,3.108656272,Overall system activity was unusually high
+26636,2,combined_risk,2.669839492,2.596881723,Multiple risk signals increased at the same time
+26636,3,file_activity,124,1.172395919,File-related activity was unusually high
+17536,1,total_activity,702,2.666483877,Overall system activity was unusually high
+17536,2,combined_risk,4.41881299,1.976373231,Multiple risk signals increased at the same time
+17536,3,behavioral_risk_3week_avg,6.666666667,1.343931352,Suspicious behavior stayed elevated over several weeks
+32649,1,total_activity,562,2.209310588,Overall system activity was unusually high
+32649,2,combined_risk,4.340425532,2.203867698,Multiple risk signals increased at the same time
+32649,3,behavioral_risk_3week_avg,8,1.332073735,Suspicious behavior stayed elevated over several weeks
+1428,1,total_activity,302,1.923258666,Overall system activity was unusually high
+1428,2,combined_risk,4.678424785,1.722490768,Multiple risk signals increased at the same time
+1428,3,behavioral_risk_3week_avg,8.666666667,1.100437975,Suspicious behavior stayed elevated over several weeks
+28077,1,combined_risk,4.096864502,1.900034374,Multiple risk signals increased at the same time
+28077,2,behavioral_risk_3week_avg,7.333333333,1.443443939,Suspicious behavior stayed elevated over several weeks
+28077,3,device_weekly_distinct_pcs_used,7.824146937,0.883823822,External devices were used on multiple computers
+20302,1,total_activity,192,3.506171786,Overall system activity was unusually high
+20302,2,combined_risk,2.10862262,0.909314249,Multiple risk signals increased at the same time
+20302,3,logon_weekly_active_days,-2.122578512,0.821022038,Login activity occurred across many days
+9372,1,total_activity,283,3.669538339,Overall system activity was unusually high
+9372,2,combined_risk,2.675625233,2.861085374,Multiple risk signals increased at the same time
+9372,3,device_weekly_avg_device_connections_per_day,4.561392799,0.875225664,Daily external device usage was unusually high
+40081,1,total_activity,236,2.961484787,Overall system activity was unusually high
+40081,2,combined_risk,2.639790967,2.591158266,Multiple risk signals increased at the same time
+40081,3,file_activity,115,1.178559027,File-related activity was unusually high
+39172,1,combined_risk,3.065696155,4.038248575,Multiple risk signals increased at the same time
+39172,2,http_weekly_active_days,5.504626106,1.721857516,Web activity occurred across many days
+39172,3,behavioral_risk_3week_avg,6,0.399446193,Suspicious behavior stayed elevated over several weeks
+12916,1,combined_risk,3.121313923,3.240621679,Multiple risk signals increased at the same time
+12916,2,total_activity,175,1.341064106,Overall system activity was unusually high
+12916,3,file_weekly_total_file_events,4.714407487,0.916455327,File access activity was unusually high
+16101,1,total_activity,504,2.506185843,Overall system activity was unusually high
+16101,2,combined_risk,3.798245614,2.14463156,Multiple risk signals increased at the same time
+16101,3,behavioral_risk_3week_avg,6.666666667,1.367571787,Suspicious behavior stayed elevated over several weeks
+39052,1,combined_risk,3.079880552,3.291600735,Multiple risk signals increased at the same time
+39052,2,logon_weekly_distinct_pcs,6.392664664,1.205688284,Logins came from multiple computers
+39052,3,behavioral_risk_3week_avg,5,0.427556706,Suspicious behavior stayed elevated over several weeks
+12230,1,total_activity,277,2.277856606,Overall system activity was unusually high
+12230,2,combined_risk,4.170399403,1.600279334,Multiple risk signals increased at the same time
+12230,3,behavioral_risk_3week_avg,7.666666667,1.266916859,Suspicious behavior stayed elevated over several weeks
+12881,1,combined_risk,3.089025756,3.300718009,Multiple risk signals increased at the same time
+12881,2,file_activity,51,0.47965608,File-related activity was unusually high
+12881,3,behavioral_risk_3week_avg,4.333333333,0.438020216,Suspicious behavior stayed elevated over several weeks
+29176,1,combined_risk,3.106196342,3.072029378,Multiple risk signals increased at the same time
+29176,2,total_activity,161,1.109920665,Overall system activity was unusually high
+29176,3,behavioral_risk_3week_avg,5.333333333,0.405420083,Suspicious behavior stayed elevated over several weeks
+1545,1,combined_risk,3.150055991,3.397629931,Multiple risk signals increased at the same time
+1545,2,total_activity,226,2.940180565,Overall system activity was unusually high
+1545,3,email_weekly_emails_with_attachments,5.216200051,0.273343112,Many emails included attachments
+16512,1,behavioral_risk_3week_avg,8,1.471329981,Suspicious behavior stayed elevated over several weeks
+16512,2,combined_risk,4.605076521,1.402827553,Multiple risk signals increased at the same time
+16512,3,total_activity,168,1.249395391,Overall system activity was unusually high
+5862,1,combined_risk,3.616274729,3.385666747,Multiple risk signals increased at the same time
+5862,2,total_activity,173,1.519394318,Overall system activity was unusually high
+5862,3,behavioral_risk_3week_avg,5.333333333,0.40763954,Suspicious behavior stayed elevated over several weeks
+3460,1,combined_risk,3.168906308,2.914984196,Multiple risk signals increased at the same time
+3460,2,total_activity,234,2.903074168,Overall system activity was unusually high
+3460,3,email_weekly_emails_with_attachments,2.299121014,0.294814837,Many emails included attachments
+10257,1,combined_risk,2.592011945,2.2422257,Multiple risk signals increased at the same time
+10257,2,file_weekly_total_file_events,3.776755882,0.778424376,File access activity was unusually high
+10257,3,file_activity,131,0.764341609,File-related activity was unusually high
+8225,1,combined_risk,3.088279209,3.084536061,Multiple risk signals increased at the same time
+8225,2,total_activity,155,1.067195508,Overall system activity was unusually high
+8225,3,device_weekly_avg_device_connections_per_day,4.342504712,0.920470422,Daily external device usage was unusually high
+5543,1,total_activity,302,2.646675353,Overall system activity was unusually high
+5543,2,combined_risk,4.681224337,1.641190173,Multiple risk signals increased at the same time
+5543,3,behavioral_risk_3week_avg,8.333333333,1.038661616,Suspicious behavior stayed elevated over several weeks
+40960,1,total_activity,200,1.57563543,Overall system activity was unusually high
+40960,2,combined_risk,4.120567376,1.545525304,Multiple risk signals increased at the same time
+40960,3,behavioral_risk_3week_avg,8,1.260974988,Suspicious behavior stayed elevated over several weeks
+20205,1,total_activity,533,2.610375348,Overall system activity was unusually high
+20205,2,combined_risk,3.823254946,2.03953871,Multiple risk signals increased at the same time
+20205,3,behavioral_risk_3week_avg,6.666666667,1.34392127,Suspicious behavior stayed elevated over several weeks
+4797,1,combined_risk,3.114408361,3.057437518,Multiple risk signals increased at the same time
+4797,2,total_activity,204,1.549973435,Overall system activity was unusually high
+4797,3,file_activity,109,1.06046413,File-related activity was unusually high
+17540,1,total_activity,360,2.427668305,Overall system activity was unusually high
+17540,2,combined_risk,3.714818962,2.093417638,Multiple risk signals increased at the same time
+17540,3,behavioral_risk_3week_avg,6.666666667,1.365714567,Suspicious behavior stayed elevated over several weeks
+27618,1,combined_risk,3.603023516,2.27361994,Multiple risk signals increased at the same time
+27618,2,total_activity,182,1.862453872,Overall system activity was unusually high
+27618,3,behavioral_risk_3week_avg,7,1.154754953,Suspicious behavior stayed elevated over several weeks
+34477,1,combined_risk,3.603770063,3.558393683,Multiple risk signals increased at the same time
+34477,2,http_weekly_active_days,5.504626106,1.934935483,Web activity occurred across many days
+34477,3,behavioral_risk_3week_avg,7,1.398584098,Suspicious behavior stayed elevated over several weeks
+7983,1,combined_risk,3.066442703,4.039602829,Multiple risk signals increased at the same time
+7983,2,http_weekly_active_days,5.504626106,1.754279636,Web activity occurred across many days
+7983,3,behavioral_risk_3week_avg,6,0.400884303,Suspicious behavior stayed elevated over several weeks
+28412,1,total_activity,288,3.288708275,Overall system activity was unusually high
+28412,2,combined_risk,3.188316536,3.113264383,Multiple risk signals increased at the same time
+28412,3,file_activity,67,0.51775967,File-related activity was unusually high
+32472,1,total_activity,181,2.765771135,Overall system activity was unusually high
+32472,2,combined_risk,2.120754013,1.316415917,Multiple risk signals increased at the same time
+32472,3,behavioral_risk_3week_avg,4.333333333,0.944628517,Suspicious behavior stayed elevated over several weeks
+19760,1,total_activity,335,3.982070081,Overall system activity was unusually high
+19760,2,combined_risk,2.714259052,2.833788751,Multiple risk signals increased at the same time
+19760,3,device_weekly_avg_device_connections_per_day,4.014172581,0.555406599,Daily external device usage was unusually high
+19785,1,total_activity,167,2.502166218,Overall system activity was unusually high
+19785,2,combined_risk,2.106756252,1.307720049,Multiple risk signals increased at the same time
+19785,3,device_weekly_avg_device_connections_per_day,4.561392799,1.238845233,Daily external device usage was unusually high
+17386,1,combined_risk,3.200261292,2.826261496,Multiple risk signals increased at the same time
+17386,2,total_activity,295,2.764161537,Overall system activity was unusually high
+17386,3,file_activity,93,0.988131981,File-related activity was unusually high
+19788,1,total_activity,155,2.327253658,Overall system activity was unusually high
+19788,2,combined_risk,2.097237775,1.350596372,Multiple risk signals increased at the same time
+19788,3,logon_weekly_active_days,-2.122578512,0.909141307,Login activity occurred across many days
+16143,1,total_activity,421,2.946851121,Overall system activity was unusually high
+16143,2,combined_risk,3.784061217,1.953305487,Multiple risk signals increased at the same time
+16143,3,behavioral_risk_3week_avg,6.666666667,1.181236927,Suspicious behavior stayed elevated over several weeks
+13453,1,combined_risk,3.103023516,4.393768664,Multiple risk signals increased at the same time
+13453,2,http_weekly_active_days,5.504626106,1.998016324,Web activity occurred across many days
+13453,3,total_activity,139,0.486067305,Overall system activity was unusually high
+39414,1,total_activity,254,3.129927455,Overall system activity was unusually high
+39414,2,combined_risk,2.654535274,2.547371853,Multiple risk signals increased at the same time
+39414,3,file_activity,104,1.188415807,File-related activity was unusually high
+1252,1,total_activity,163,1.832876407,Overall system activity was unusually high
+1252,2,combined_risk,2.099850691,0.960859477,Multiple risk signals increased at the same time
+1252,3,behavioral_risk_3week_avg,4.666666667,0.938545132,Suspicious behavior stayed elevated over several weeks
+28093,1,total_activity,296,2.066729862,Overall system activity was unusually high
+28093,2,combined_risk,4.674132139,1.496027727,Multiple risk signals increased at the same time
+28093,3,behavioral_risk_3week_avg,9,1.036613085,Suspicious behavior stayed elevated over several weeks
+22488,1,combined_risk,3.610488988,3.556628216,Multiple risk signals increased at the same time
+22488,2,http_weekly_active_days,5.504626106,2.088846791,Web activity occurred across many days
+22488,3,behavioral_risk_3week_avg,7,1.416127612,Suspicious behavior stayed elevated over several weeks
+21589,1,combined_risk,3.063456514,4.025934427,Multiple risk signals increased at the same time
+21589,2,http_weekly_active_days,5.504626106,1.721397764,Web activity occurred across many days
+21589,3,behavioral_risk_3week_avg,6,0.4003496,Suspicious behavior stayed elevated over several weeks
+6565,1,combined_risk,4.590705487,1.856185069,Multiple risk signals increased at the same time
+6565,2,behavioral_risk_3week_avg,8.666666667,1.426629764,Suspicious behavior stayed elevated over several weeks
+6565,3,device_weekly_distinct_pcs_used,12.66286696,1.006436862,External devices were used on multiple computers
+16525,1,combined_risk,3.59518477,1.938226895,Multiple risk signals increased at the same time
+16525,2,behavioral_risk_3week_avg,6.666666667,1.469041267,Suspicious behavior stayed elevated over several weeks
+16525,3,device_weekly_distinct_pcs_used,10.24350695,0.89142185,External devices were used on multiple computers
+34619,1,total_activity,515,2.596593904,Overall system activity was unusually high
+34619,2,combined_risk,3.804031355,2.040528281,Multiple risk signals increased at the same time
+34619,3,behavioral_risk_3week_avg,7.666666667,1.303523059,Suspicious behavior stayed elevated over several weeks
+31500,1,combined_risk,3.57241508,3.677422056,Multiple risk signals increased at the same time
+31500,2,http_weekly_active_days,5.504626106,1.94662521,Web activity occurred across many days
+31500,3,behavioral_risk_3week_avg,7,1.410263793,Suspicious behavior stayed elevated over several weeks
+17524,1,total_activity,616,2.828968665,Overall system activity was unusually high
+17524,2,file_activity,302,1.363851921,File-related activity was unusually high
+17524,3,behavioral_risk_3week_avg,7,1.302163823,Suspicious behavior stayed elevated over several weeks
+16510,1,total_activity,265,2.294999393,Overall system activity was unusually high
+16510,2,file_activity,99,1.334922047,File-related activity was unusually high
+16510,3,behavioral_risk_3week_avg,7.333333333,1.219375721,Suspicious behavior stayed elevated over several weeks
+24341,1,total_activity,171,2.528102404,Overall system activity was unusually high
+24341,2,combined_risk,2.109369168,0.866434209,Multiple risk signals increased at the same time
+24341,3,behavioral_risk_3week_avg,4.333333333,0.772069231,Suspicious behavior stayed elevated over several weeks
+15452,1,combined_risk,4.612915267,2.292584935,Multiple risk signals increased at the same time
+15452,2,http_weekly_active_days,5.504626106,1.451131563,Web activity occurred across many days
+15452,3,behavioral_risk_3week_avg,9,1.345428559,Suspicious behavior stayed elevated over several weeks
+39383,1,total_activity,552,2.472729581,Overall system activity was unusually high
+39383,2,combined_risk,4.334079881,1.698849234,Multiple risk signals increased at the same time
+39383,3,behavioral_risk_3week_avg,8,1.314008844,Suspicious behavior stayed elevated over several weeks
+31929,1,combined_risk,3.611235536,3.556628216,Multiple risk signals increased at the same time
+31929,2,http_weekly_active_days,5.504626106,2.094309521,Web activity occurred across many days
+31929,3,behavioral_risk_3week_avg,7,1.416662315,Suspicious behavior stayed elevated over several weeks
+20797,1,total_activity,238,3.884929033,Overall system activity was unusually high
+20797,2,behavioral_risk_3week_avg,6.666666667,1.486824354,Suspicious behavior stayed elevated over several weeks
+20797,3,combined_risk,2.158081374,-0.579134679,Multiple risk signals increased at the same time
+35130,1,total_activity,308,2.682353773,Overall system activity was unusually high
+35130,2,combined_risk,3.699141471,1.700779712,Multiple risk signals increased at the same time
+35130,3,behavioral_risk_3week_avg,6.666666667,1.263562272,Suspicious behavior stayed elevated over several weeks
+4791,1,combined_risk,3.125046659,3.14406644,Multiple risk signals increased at the same time
+4791,2,total_activity,223,2.236376207,Overall system activity was unusually high
+4791,3,file_activity,128,1.178203197,File-related activity was unusually high
+3620,1,combined_risk,3.117207913,3.13145142,Multiple risk signals increased at the same time
+3620,2,total_activity,209,1.606172133,Overall system activity was unusually high
+3620,3,file_activity,118,1.060829778,File-related activity was unusually high
+22312,1,combined_risk,3.066442703,3.985703122,Multiple risk signals increased at the same time
+22312,2,http_weekly_active_days,5.504626106,1.754174268,Web activity occurred across many days
+22312,3,behavioral_risk_3week_avg,6,0.399980896,Suspicious behavior stayed elevated over several weeks
+40978,1,combined_risk,3.111422172,3.135911021,Multiple risk signals increased at the same time
+40978,2,total_activity,185,1.264114783,Overall system activity was unusually high
+40978,3,file_activity,120,0.991707575,File-related activity was unusually high
+39403,1,combined_risk,3.173572228,3.105345221,Multiple risk signals increased at the same time
+39403,2,total_activity,288,2.463103148,Overall system activity was unusually high
+39403,3,file_activity,134,1.077257242,File-related activity was unusually high
+20206,1,total_activity,468,2.585772251,Overall system activity was unusually high
+20206,2,combined_risk,3.784621127,1.978308954,Multiple risk signals increased at the same time
+20206,3,behavioral_risk_3week_avg,6.666666667,1.289133617,Suspicious behavior stayed elevated over several weeks
+20296,1,combined_risk,2.620007465,2.794313839,Multiple risk signals increased at the same time
+20296,2,total_activity,212,2.624333118,Overall system activity was unusually high
+20296,3,device_weekly_avg_device_connections_per_day,4.561392799,0.669177771,Daily external device usage was unusually high
+9865,1,combined_risk,3.153788727,3.110483299,Multiple risk signals increased at the same time
+9865,2,total_activity,261,2.455535519,Overall system activity was unusually high
+9865,3,file_activity,131,1.052043644,File-related activity was unusually high
+4405,1,total_activity,170,2.980807852,Overall system activity was unusually high
+4405,2,behavioral_risk_3week_avg,4.333333333,1.06344715,Suspicious behavior stayed elevated over several weeks
+4405,3,logon_weekly_active_days,-2.122578512,0.925036145,Login activity occurred across many days
+5818,1,total_activity,263,3.584558524,Overall system activity was unusually high
+5818,2,combined_risk,2.695595371,2.503225976,Multiple risk signals increased at the same time
+5818,3,behavioral_risk_3week_avg,5,0.3491706,Suspicious behavior stayed elevated over several weeks
+5354,1,total_activity,253,3.342594135,Overall system activity was unusually high
+5354,2,combined_risk,2.657521463,2.946497525,Multiple risk signals increased at the same time
+5354,3,device_weekly_avg_device_connections_per_day,4.561392799,0.799526204,Daily external device usage was unusually high
+39412,1,combined_risk,3.127659574,3.116448751,Multiple risk signals increased at the same time
+39412,2,total_activity,211,1.807713775,Overall system activity was unusually high
+39412,3,file_activity,90,1.094981703,File-related activity was unusually high
+37801,1,combined_risk,3.172825681,3.081372286,Multiple risk signals increased at the same time
+37801,2,total_activity,285,2.465243366,Overall system activity was unusually high
+37801,3,file_activity,128,1.078601371,File-related activity was unusually high
+1442,1,total_activity,305,2.447415476,Overall system activity was unusually high
+1442,2,combined_risk,3.680104517,1.556042778,Multiple risk signals increased at the same time
+1442,3,behavioral_risk_3week_avg,8.333333333,1.162201778,Suspicious behavior stayed elevated over several weeks
+15571,1,combined_risk,2.636431504,3.053808961,Multiple risk signals increased at the same time
+15571,2,total_activity,190,2.402874028,Overall system activity was unusually high
+15571,3,email_weekly_emails_with_attachments,3.8548965,0.397915415,Many emails included attachments
+5816,1,total_activity,264,3.826970999,Overall system activity was unusually high
+5816,2,combined_risk,2.696341919,2.507296923,Multiple risk signals increased at the same time
+5816,3,email_weekly_emails_with_attachments,8.716694894,0.435621134,Many emails included attachments
+16120,1,combined_risk,2.649309444,2.727489047,Multiple risk signals increased at the same time
+16120,2,total_activity,253,2.721726427,Overall system activity was unusually high
+16120,3,file_activity,120,1.172134435,File-related activity was unusually high
+5159,1,combined_risk,3.065322882,3.944721812,Multiple risk signals increased at the same time
+5159,2,http_weekly_active_days,5.504626106,1.595224052,Web activity occurred across many days
+5159,3,total_activity,108,0.436156564,Overall system activity was unusually high
+5293,1,combined_risk,3.079320642,2.562039621,Multiple risk signals increased at the same time
+5293,2,behavioral_risk_3week_avg,6.666666667,1.452501442,Suspicious behavior stayed elevated over several weeks
+5293,3,device_weekly_avg_device_connections_per_day,4.248695532,0.660884202,Daily external device usage was unusually high
+35480,1,combined_risk,4.100037327,3.591516852,Multiple risk signals increased at the same time
+35480,2,http_weekly_active_days,5.504626106,2.088846791,Web activity occurred across many days
+35480,3,behavioral_risk_3week_avg,8,1.416166645,Suspicious behavior stayed elevated over several weeks
+37798,1,combined_risk,3.165546846,3.08375136,Multiple risk signals increased at the same time
+37798,2,total_activity,272,2.406047946,Overall system activity was unusually high
+37798,3,file_activity,117,1.076891593,File-related activity was unusually high
+8115,1,combined_risk,3.066442703,4.038355169,Multiple risk signals increased at the same time
+8115,2,http_weekly_active_days,5.504626106,1.748825249,Web activity occurred across many days
+8115,3,behavioral_risk_3week_avg,6,0.399521087,Suspicious behavior stayed elevated over several weeks
+13807,1,combined_risk,3.534527809,3.683715188,Multiple risk signals increased at the same time
+13807,2,http_weekly_active_days,7.407214,2.308572227,Web activity occurred across many days
+13807,3,behavioral_risk_3week_avg,7,1.350437673,Suspicious behavior stayed elevated over several weeks
+34220,1,combined_risk,2.614968272,2.408505311,Multiple risk signals increased at the same time
+34220,2,total_activity,177,1.59396477,Overall system activity was unusually high
+34220,3,behavioral_risk_3week_avg,4.666666667,0.596166106,Suspicious behavior stayed elevated over several weeks
+3607,1,combined_risk,3.231616275,3.027680478,Multiple risk signals increased at the same time
+3607,2,total_activity,412,2.624447144,Overall system activity was unusually high
+3607,3,file_activity,230,1.076891593,File-related activity was unusually high
+27984,1,total_activity,467,2.709864305,Overall system activity was unusually high
+27984,2,combined_risk,3.777155655,1.978308954,Multiple risk signals increased at the same time
+27984,3,behavioral_risk_3week_avg,7,1.29829877,Suspicious behavior stayed elevated over several weeks
+5353,1,total_activity,271,3.38139993,Overall system activity was unusually high
+5353,2,combined_risk,2.667786487,3.00462688,Multiple risk signals increased at the same time
+5353,3,device_weekly_avg_device_connections_per_day,4.561392799,0.788540845,Daily external device usage was unusually high
+20868,1,combined_risk,3.061216872,3.996379806,Multiple risk signals increased at the same time
+20868,2,http_weekly_active_days,5.504626106,1.726763469,Web activity occurred across many days
+20868,3,behavioral_risk_3week_avg,6,0.40005579,Suspicious behavior stayed elevated over several weeks
+28069,1,combined_risk,4.083426652,2.046426767,Multiple risk signals increased at the same time
+28069,2,behavioral_risk_3week_avg,8.333333333,1.406812881,Suspicious behavior stayed elevated over several weeks
+28069,3,device_weekly_distinct_pcs_used,11.04996028,1.070550472,External devices were used on multiple computers
+28087,1,combined_risk,4.094251586,2.081789726,Multiple risk signals increased at the same time
+28087,2,behavioral_risk_3week_avg,6.666666667,1.497824014,Suspicious behavior stayed elevated over several weeks
+28087,3,device_weekly_distinct_pcs_used,11.85641362,0.875065953,External devices were used on multiple computers
+16526,1,combined_risk,4.084359836,2.182958009,Multiple risk signals increased at the same time
+16526,2,behavioral_risk_3week_avg,7,1.45911555,Suspicious behavior stayed elevated over several weeks
+16526,3,device_weekly_distinct_pcs_used,10.24350695,1.088315148,External devices were used on multiple computers
+3616,1,combined_risk,3.120007465,3.081374022,Multiple risk signals increased at the same time
+3616,2,total_activity,214,1.962824383,Overall system activity was unusually high
+3616,3,file_activity,120,1.077356202,File-related activity was unusually high
+5077,1,combined_risk,3.110115715,3.3456956,Multiple risk signals increased at the same time
+5077,2,total_activity,186,1.767340783,Overall system activity was unusually high
+5077,3,device_weekly_avg_device_connections_per_day,4.451948756,0.907090473,Daily external device usage was unusually high
+17527,1,total_activity,653,2.716123111,Overall system activity was unusually high
+17527,2,combined_risk,3.390630832,2.236565126,Multiple risk signals increased at the same time
+17527,3,behavioral_risk_3week_avg,7.333333333,1.327173575,Suspicious behavior stayed elevated over several weeks
+39410,1,combined_risk,3.164986935,3.105345221,Multiple risk signals increased at the same time
+39410,2,total_activity,273,2.37688928,Overall system activity was unusually high
+39410,3,file_activity,124,1.078601371,File-related activity was unusually high
+17551,1,total_activity,321,2.523686638,Overall system activity was unusually high
+17551,2,combined_risk,3.691302725,2.015293964,Multiple risk signals increased at the same time
+17551,3,behavioral_risk_3week_avg,6.666666667,1.318765156,Suspicious behavior stayed elevated over several weeks
+4732,1,combined_risk,3.787234043,3.036895829,Multiple risk signals increased at the same time
+4732,2,total_activity,503,2.756965105,Overall system activity was unusually high
+4732,3,file_activity,269,1.097126573,File-related activity was unusually high
+35137,1,combined_risk,3.083613289,4.188506827,Multiple risk signals increased at the same time
+35137,2,file_change,-56,0.779913734,File activity changed sharply compared with the previous week
+35137,3,total_activity,126,0.470390032,Overall system activity was unusually high
+21496,1,total_activity,235,2.953014587,Overall system activity was unusually high
+21496,2,combined_risk,2.638484509,2.547297171,Multiple risk signals increased at the same time
+21496,3,file_activity,105,1.178559027,File-related activity was unusually high
+12232,1,behavioral_risk_3week_avg,8,1.458464157,Suspicious behavior stayed elevated over several weeks
+12232,2,combined_risk,4.608435984,1.305887106,Multiple risk signals increased at the same time
+12232,3,total_activity,175,1.089621519,Overall system activity was unusually high
+21488,1,combined_risk,3.141470698,3.147372272,Multiple risk signals increased at the same time
+21488,2,total_activity,239,2.477203158,Overall system activity was unusually high
+21488,3,file_activity,108,1.176859068,File-related activity was unusually high
+32688,1,total_activity,284,3.111573694,Overall system activity was unusually high
+32688,2,combined_risk,2.672825681,2.599087423,Multiple risk signals increased at the same time
+32688,3,file_activity,123,1.178498665,File-related activity was unusually high
+16134,1,combined_risk,3.15304218,3.057955868,Multiple risk signals increased at the same time
+16134,2,total_activity,260,2.618473316,Overall system activity was unusually high
+16134,3,file_activity,128,1.097492221,File-related activity was unusually high
+28859,1,combined_risk,3.073161627,4.338772424,Multiple risk signals increased at the same time
+28859,2,http_weekly_active_days,5.504626106,1.867373317,Web activity occurred across many days
+28859,3,behavioral_risk_3week_avg,6,0.421764577,Suspicious behavior stayed elevated over several weeks
+13427,1,combined_risk,3.528368794,3.717326671,Multiple risk signals increased at the same time
+13427,2,http_weekly_active_days,5.504626106,1.638430089,Web activity occurred across many days
+13427,3,behavioral_risk_3week_avg,7,1.347410965,Suspicious behavior stayed elevated over several weeks
+21468,1,total_activity,504,2.919796231,Overall system activity was unusually high
+21468,2,combined_risk,3.298245614,1.989314035,Multiple risk signals increased at the same time
+21468,3,behavioral_risk_3week_avg,6.666666667,1.153381046,Suspicious behavior stayed elevated over several weeks
+37526,1,total_activity,191,3.827956524,Overall system activity was unusually high
+37526,2,file_activity,102,2.015984161,File-related activity was unusually high
+37526,3,risk_change,-35.4,1.46982013,Network-related risk increased compared with the previous week
+39128,1,combined_risk,3.576334453,3.604720019,Multiple risk signals increased at the same time
+39128,2,http_weekly_active_days,5.504626106,1.920813505,Web activity occurred across many days
+39128,3,behavioral_risk_3week_avg,7,1.39636134,Suspicious behavior stayed elevated over several weeks
+28329,1,total_activity,359,4.098088269,Overall system activity was unusually high
+28329,2,logon_weekly_active_days,-1.428846822,0.838671123,Login activity occurred across many days
+28329,3,behavioral_risk_3week_avg,4.666666667,0.774818031,Suspicious behavior stayed elevated over several weeks
+32605,1,combined_risk,3.601530422,3.591516852,Multiple risk signals increased at the same time
+32605,2,http_weekly_active_days,5.504626106,2.094309521,Web activity occurred across many days
+32605,3,behavioral_risk_3week_avg,7,1.416701348,Suspicious behavior stayed elevated over several weeks
+36841,1,combined_risk,3.066442703,4.012021091,Multiple risk signals increased at the same time
+36841,2,http_weekly_active_days,5.504626106,1.754248396,Web activity occurred across many days
+36841,3,behavioral_risk_3week_avg,6,0.40005579,Suspicious behavior stayed elevated over several weeks
+18138,1,total_activity,409,3.33961903,Overall system activity was unusually high
+18138,2,combined_risk,3.248040314,1.672795229,Multiple risk signals increased at the same time
+18138,3,behavioral_risk_3week_avg,8,1.130147086,Suspicious behavior stayed elevated over several weeks
+35775,1,total_activity,226,3.18887717,Overall system activity was unusually high
+35775,2,combined_risk,2.646323255,2.587980195,Multiple risk signals increased at the same time
+35775,3,file_activity,60,0.501728919,File-related activity was unusually high
+24299,1,total_activity,245,3.929340484,Overall system activity was unusually high
+24299,2,behavioral_risk_3week_avg,4.333333333,0.539149196,Suspicious behavior stayed elevated over several weeks
+24299,3,combined_risk,2.182157521,0.459193212,Multiple risk signals increased at the same time
+4287,1,total_activity,167,2.447412218,Overall system activity was unusually high
+4287,2,combined_risk,2.100597238,0.849145803,Multiple risk signals increased at the same time
+4287,3,behavioral_risk_3week_avg,4.333333333,0.781234895,Suspicious behavior stayed elevated over several weeks
+5085,1,combined_risk,3.115154909,3.011898978,Multiple risk signals increased at the same time
+5085,2,total_activity,195,1.728362513,Overall system activity was unusually high
+5085,3,file_activity,87,1.090825577,File-related activity was unusually high
+11215,1,combined_risk,2.616274729,3.176637023,Multiple risk signals increased at the same time
+11215,2,total_activity,180,2.126258404,Overall system activity was unusually high
+11215,3,behavioral_risk_3week_avg,5,0.41576848,Suspicious behavior stayed elevated over several weeks
+34085,1,total_activity,267,3.30344796,Overall system activity was unusually high
+34085,2,combined_risk,3.174505412,2.909015297,Multiple risk signals increased at the same time
+34085,3,file_activity,71,0.72714791,File-related activity was unusually high
+12481,1,combined_risk,3.600037327,3.591516852,Multiple risk signals increased at the same time
+12481,2,http_weekly_active_days,5.504626106,2.088846791,Web activity occurred across many days
+12481,3,behavioral_risk_3week_avg,7,1.416166645,Suspicious behavior stayed elevated over several weeks
+18170,1,combined_risk,4.57241508,2.36787763,Multiple risk signals increased at the same time
+18170,2,behavioral_risk_3week_avg,7.333333333,1.437899289,Suspicious behavior stayed elevated over several weeks
+18170,3,device_weekly_distinct_pcs_used,11.85641362,1.046046777,External devices were used on multiple computers
+12929,1,total_activity,277,3.024857546,Overall system activity was unusually high
+12929,2,combined_risk,2.680291153,2.235734042,Multiple risk signals increased at the same time
+12929,3,file_activity,124,1.134449953,File-related activity was unusually high
+17377,1,total_activity,371,2.761292762,Overall system activity was unusually high
+17377,2,combined_risk,3.2383352,1.332376908,Multiple risk signals increased at the same time
+17377,3,behavioral_risk_3week_avg,7.333333333,1.251980401,Suspicious behavior stayed elevated over several weeks
+16126,1,combined_risk,3.150615901,3.054650036,Multiple risk signals increased at the same time
+16126,2,total_activity,256,2.407150293,Overall system activity was unusually high
+16126,3,file_activity,124,1.078601371,File-related activity was unusually high
+12959,1,combined_risk,2.591638671,2.637740514,Multiple risk signals increased at the same time
+12959,2,behavioral_risk_3week_avg,4.333333333,0.657602178,Suspicious behavior stayed elevated over several weeks
+12959,3,logon_weekly_active_days,-2.122578512,0.65230935,Login activity occurred across many days
+1176,1,combined_risk,3.064949608,4.03864902,Multiple risk signals increased at the same time
+1176,2,http_weekly_active_days,5.504626106,1.721914674,Web activity occurred across many days
+1176,3,behavioral_risk_3week_avg,6,0.399446193,Suspicious behavior stayed elevated over several weeks
+37806,1,combined_risk,3.164427025,3.052942728,Multiple risk signals increased at the same time
+37806,2,total_activity,270,2.538072035,Overall system activity was unusually high
+37806,3,file_activity,125,1.067959368,File-related activity was unusually high
+32105,1,combined_risk,3.064762971,3.506557525,Multiple risk signals increased at the same time
+32105,2,http_weekly_active_days,5.504626106,1.27022005,Web activity occurred across many days
+32105,3,total_activity,107,0.489926993,Overall system activity was unusually high
+26924,1,combined_risk,3.606756252,3.556628216,Multiple risk signals increased at the same time
+26924,2,http_weekly_active_days,5.504626106,2.094309521,Web activity occurred across many days
+26924,3,behavioral_risk_3week_avg,7,1.41666448,Suspicious behavior stayed elevated over several weeks
+19935,1,combined_risk,2.632512131,2.979098203,Multiple risk signals increased at the same time
+19935,2,total_activity,185,2.067855261,Overall system activity was unusually high
+19935,3,email_weekly_emails_with_attachments,4.827256179,0.296164179,Many emails included attachments
+31708,1,combined_risk,3.066442703,3.961072255,Multiple risk signals increased at the same time
+31708,2,http_weekly_active_days,5.504626106,1.378482534,Web activity occurred across many days
+31708,3,behavioral_risk_3week_avg,6,0.399980896,Suspicious behavior stayed elevated over several weeks
+12879,1,total_activity,196,3.589489882,Overall system activity was unusually high
+12879,2,file_activity,105,1.359696531,File-related activity was unusually high
+12879,3,logon_weekly_active_days,-1.428846822,0.439333929,Login activity occurred across many days
+18169,1,total_activity,229,3.18324574,Overall system activity was unusually high
+18169,2,behavioral_risk_3week_avg,7,1.244831502,Suspicious behavior stayed elevated over several weeks
+18169,3,combined_risk,2.637737962,1.123061142,Multiple risk signals increased at the same time
+1000,1,combined_risk,3.603210153,2.971108602,Multiple risk signals increased at the same time
+1000,2,http_weekly_active_days,5.504626106,1.777364449,Web activity occurred across many days
+1000,3,behavioral_risk_3week_avg,7,1.427098925,Suspicious behavior stayed elevated over several weeks
+40069,1,combined_risk,3.290033595,3.083158803,Multiple risk signals increased at the same time
+40069,2,total_activity,490,2.609611984,Overall system activity was unusually high
+40069,3,file_activity,242,1.068481001,File-related activity was unusually high
+40070,1,combined_risk,3.791153415,3.051955779,Multiple risk signals increased at the same time
+40070,2,total_activity,492,2.615002206,Overall system activity was unusually high
+40070,3,file_activity,240,1.094261967,File-related activity was unusually high
+27622,1,combined_risk,2.600037327,2.768315651,Multiple risk signals increased at the same time
+27622,2,total_activity,177,1.550303354,Overall system activity was unusually high
+27622,3,device_weekly_avg_device_connections_per_day,4.451948756,0.711130991,Daily external device usage was unusually high
+34389,1,total_activity,258,2.732371134,Overall system activity was unusually high
+34389,2,combined_risk,4.170959313,2.100538749,Multiple risk signals increased at the same time
+34389,3,http_weekly_active_days,5.504626106,1.650943806,Web activity occurred across many days
+24641,1,combined_risk,3.710339679,3.078845963,Multiple risk signals increased at the same time
+24641,2,total_activity,356,2.693427673,Overall system activity was unusually high
+24641,3,file_activity,170,1.097126573,File-related activity was unusually high
+41038,1,combined_risk,3.078387458,4.254326431,Multiple risk signals increased at the same time
+41038,2,http_weekly_active_days,5.504626106,1.886171579,Web activity occurred across many days
+41038,3,http_weekly_total_http_events,6.20543292,0.467927694,Web usage was unusually high
+9653,1,combined_risk,3.123366928,3.49967083,Multiple risk signals increased at the same time
+9653,2,total_activity,180,1.880995933,Overall system activity was unusually high
+9653,3,behavioral_risk_3week_avg,5.666666667,0.358142802,Suspicious behavior stayed elevated over several weeks
+33015,1,combined_risk,3.611235536,3.556628216,Multiple risk signals increased at the same time
+33015,2,http_weekly_active_days,5.504626106,2.094309521,Web activity occurred across many days
+33015,3,behavioral_risk_3week_avg,7,1.416662315,Suspicious behavior stayed elevated over several weeks
+9646,1,combined_risk,2.615528182,3.206708676,Multiple risk signals increased at the same time
+9646,2,total_activity,163,1.545404599,Overall system activity was unusually high
+9646,3,behavioral_risk_3week_avg,5,0.512917397,Suspicious behavior stayed elevated over several weeks
+28752,1,combined_risk,2.623180291,3.106098477,Multiple risk signals increased at the same time
+28752,2,total_activity,184,1.904500681,Overall system activity was unusually high
+28752,3,behavioral_risk_3week_avg,4.333333333,0.491753935,Suspicious behavior stayed elevated over several weeks
+10915,1,total_activity,358,2.533458401,Overall system activity was unusually high
+10915,2,combined_risk,3.219858156,2.09806623,Multiple risk signals increased at the same time
+10915,3,behavioral_risk_3week_avg,6.666666667,1.08442085,Suspicious behavior stayed elevated over several weeks
+26210,1,total_activity,236,3.926944889,Overall system activity was unusually high
+26210,2,combined_risk,2.159387831,0.771757686,Multiple risk signals increased at the same time
+26210,3,email_weekly_emails_with_attachments,2.104649079,0.2726759,Many emails included attachments
+40436,1,logon_weekly_distinct_pcs,1.838302407,1.591881341,Logins came from multiple computers
+40436,2,combined_risk,2.100783875,1.386592115,Multiple risk signals increased at the same time
+40436,3,logon_weekly_active_days,-2.122578512,1.196588117,Login activity occurred across many days
+17103,1,combined_risk,3.066442703,3.962036377,Multiple risk signals increased at the same time
+17103,2,http_weekly_active_days,5.504626106,1.392024003,Web activity occurred across many days
+17103,3,behavioral_risk_3week_avg,6,0.399980896,Suspicious behavior stayed elevated over several weeks
+23268,1,combined_risk,2.597984323,2.858763003,Multiple risk signals increased at the same time
+23268,2,total_activity,160,1.169363001,Overall system activity was unusually high
+23268,3,device_weekly_avg_device_connections_per_day,4.342504712,0.915293369,Daily external device usage was unusually high
+20234,1,combined_risk,3.15714819,3.084681023,Multiple risk signals increased at the same time
+20234,2,total_activity,260,2.590566629,Overall system activity was unusually high
+20234,3,file_activity,110,1.097492221,File-related activity was unusually high
+16105,1,total_activity,501,2.653660823,Overall system activity was unusually high
+16105,2,combined_risk,3.796379246,2.01260681,Multiple risk signals increased at the same time
+16105,3,behavioral_risk_3week_avg,6.666666667,1.085939134,Suspicious behavior stayed elevated over several weeks
+19837,1,combined_risk,3.5806271,3.423492771,Multiple risk signals increased at the same time
+19837,2,http_weekly_active_days,5.504626106,1.767429404,Web activity occurred across many days
+19837,3,behavioral_risk_3week_avg,7,1.420680481,Suspicious behavior stayed elevated over several weeks
+9644,1,combined_risk,2.617954461,2.735828075,Multiple risk signals increased at the same time
+9644,2,total_activity,171,1.600928425,Overall system activity was unusually high
+9644,3,behavioral_risk_3week_avg,4.333333333,0.608292386,Suspicious behavior stayed elevated over several weeks
+34084,1,total_activity,255,3.239565345,Overall system activity was unusually high
+34084,2,combined_risk,3.165360209,3.074042875,Multiple risk signals increased at the same time
+34084,3,file_activity,71,0.718635258,File-related activity was unusually high
+9962,1,combined_risk,3.608249347,3.556628216,Multiple risk signals increased at the same time
+9962,2,http_weekly_active_days,5.504626106,2.088830509,Web activity occurred across many days
+9962,3,behavioral_risk_3week_avg,7,1.416129777,Suspicious behavior stayed elevated over several weeks
+40985,1,combined_risk,2.620380739,2.53182666,Multiple risk signals increased at the same time
+40985,2,total_activity,200,1.929992254,Overall system activity was unusually high
+40985,3,file_activity,125,1.047379756,File-related activity was unusually high
+37803,1,total_activity,288,3.101427851,Overall system activity was unusually high
+37803,2,combined_risk,2.674505412,2.553067097,Multiple risk signals increased at the same time
+37803,3,file_activity,127,1.170790306,File-related activity was unusually high
+28947,1,combined_risk,3.564949608,3.751988304,Multiple risk signals increased at the same time
+28947,2,http_weekly_active_days,5.504626106,1.843794976,Web activity occurred across many days
+28947,3,behavioral_risk_3week_avg,7,1.389089709,Suspicious behavior stayed elevated over several weeks
+17563,1,total_activity,295,3.187746331,Overall system activity was unusually high
+17563,2,combined_risk,2.676558417,2.569160895,Multiple risk signals increased at the same time
+17563,3,file_activity,142,1.179566342,File-related activity was unusually high
+30485,1,total_activity,363,3.121659465,Overall system activity was unusually high
+30485,2,combined_risk,4.232736096,2.32228381,Multiple risk signals increased at the same time
+30485,3,behavioral_risk_3week_avg,6.666666667,1.268146134,Suspicious behavior stayed elevated over several weeks
+17007,1,combined_risk,3.608249347,3.574281054,Multiple risk signals increased at the same time
+17007,2,http_weekly_active_days,5.504626106,2.032053481,Web activity occurred across many days
+17007,3,behavioral_risk_3week_avg,7,1.416129777,Suspicious behavior stayed elevated over several weeks
+5294,1,combined_risk,2.084173199,1.349193648,Multiple risk signals increased at the same time
+5294,2,total_activity,145,0.995719294,Overall system activity was unusually high
+5294,3,behavioral_risk_3week_avg,5.666666667,0.909044731,Suspicious behavior stayed elevated over several weeks
+21499,1,total_activity,242,2.839571379,Overall system activity was unusually high
+21499,2,combined_risk,2.642963792,2.55294856,Multiple risk signals increased at the same time
+21499,3,file_activity,112,1.162277655,File-related activity was unusually high
+4799,1,combined_risk,3.118327734,3.14830908,Multiple risk signals increased at the same time
+4799,2,total_activity,211,1.839036844,Overall system activity was unusually high
+4799,3,file_activity,116,0.980125306,File-related activity was unusually high
+38749,1,combined_risk,2.641097424,2.911085579,Multiple risk signals increased at the same time
+38749,2,total_activity,190,2.141173131,Overall system activity was unusually high
+38749,3,behavioral_risk_3week_avg,4.666666667,0.278523064,Suspicious behavior stayed elevated over several weeks
+34270,1,total_activity,299,3.568600679,Overall system activity was unusually high
+34270,2,combined_risk,2.683837253,2.857716733,Multiple risk signals increased at the same time
+34270,3,device_weekly_avg_device_connections_per_day,4.561392799,0.838766105,Daily external device usage was unusually high
+30496,1,combined_risk,3.151549085,3.248519206,Multiple risk signals increased at the same time
+30496,2,total_activity,237,3.141868775,Overall system activity was unusually high
+30496,3,device_weekly_avg_device_connections_per_day,4.19657932,0.462771289,Daily external device usage was unusually high
+10631,1,total_activity,218,2.930417045,Overall system activity was unusually high
+10631,2,combined_risk,2.645763345,2.89025502,Multiple risk signals increased at the same time
+10631,3,behavioral_risk_3week_avg,5,0.373285777,Suspicious behavior stayed elevated over several weeks
+3956,1,combined_risk,2.627846211,3.181982797,Multiple risk signals increased at the same time
+3956,2,total_activity,180,1.81254904,Overall system activity was unusually high
+3956,3,behavioral_risk_3week_avg,5,0.545062062,Suspicious behavior stayed elevated over several weeks
+12876,1,combined_risk,2.637364688,2.650519654,Multiple risk signals increased at the same time
+12876,2,total_activity,217,2.643605187,Overall system activity was unusually high
+12876,3,file_activity,112,0.982101818,File-related activity was unusually high
+5823,1,total_activity,266,4.238694227,Overall system activity was unusually high
+5823,2,behavioral_risk_3week_avg,4.333333333,0.515498679,Suspicious behavior stayed elevated over several weeks
+5823,3,combined_risk,2.197835013,0.477178904,Multiple risk signals increased at the same time
+4403,1,combined_risk,2.622807018,2.69084359,Multiple risk signals increased at the same time
+4403,2,total_activity,174,1.601026219,Overall system activity was unusually high
+4403,3,behavioral_risk_3week_avg,4.666666667,0.469208274,Suspicious behavior stayed elevated over several weeks
+1232,1,combined_risk,3.689063083,2.811169952,Multiple risk signals increased at the same time
+1232,2,total_activity,306,2.635477375,Overall system activity was unusually high
+1232,3,file_activity,187,0.921884222,File-related activity was unusually high
+24566,1,total_activity,236,4.22130705,Overall system activity was unusually high
+24566,2,combined_risk,2.162560657,0.920747955,Multiple risk signals increased at the same time
+24566,3,logon_weekly_active_days,-1.428846822,0.743589722,Login activity occurred across many days
+34631,1,total_activity,505,2.638506574,Overall system activity was unusually high
+34631,2,combined_risk,3.798618888,2.012923054,Multiple risk signals increased at the same time
+34631,3,file_activity,252,1.078757356,File-related activity was unusually high
+13687,1,combined_risk,2.607876073,3.047187702,Multiple risk signals increased at the same time
+13687,2,total_activity,152,1.247909823,Overall system activity was unusually high
+13687,3,behavioral_risk_3week_avg,5,0.552508726,Suspicious behavior stayed elevated over several weeks
+1435,1,total_activity,314,1.922984469,Overall system activity was unusually high
+1435,2,combined_risk,4.683090705,1.708188468,Multiple risk signals increased at the same time
+1435,3,behavioral_risk_3week_avg,8.666666667,1.100437975,Suspicious behavior stayed elevated over several weeks
+21480,1,total_activity,254,3.015211503,Overall system activity was unusually high
+21480,2,combined_risk,2.649869354,2.553022364,Multiple risk signals increased at the same time
+21480,3,file_activity,123,1.170790306,File-related activity was unusually high
+12922,1,total_activity,284,2.771251606,Overall system activity was unusually high
+12922,2,combined_risk,3.181970885,2.703469016,Multiple risk signals increased at the same time
+12922,3,file_activity,138,1.139174585,File-related activity was unusually high
+17533,1,total_activity,655,2.553733537,Overall system activity was unusually high
+17533,2,combined_risk,4.391564016,2.045684209,Multiple risk signals increased at the same time
+17533,3,behavioral_risk_3week_avg,7.333333333,1.303523059,Suspicious behavior stayed elevated over several weeks
+40969,1,combined_risk,3.586039567,2.395111382,Multiple risk signals increased at the same time
+40969,2,behavioral_risk_3week_avg,6.666666667,1.405132182,Suspicious behavior stayed elevated over several weeks
+40969,3,file_activity,83,1.068172151,File-related activity was unusually high
+17255,1,total_activity,620,2.610748913,Overall system activity was unusually high
+17255,2,combined_risk,4.883725271,1.596808668,Multiple risk signals increased at the same time
+17255,3,behavioral_risk_3week_avg,8,1.292313695,Suspicious behavior stayed elevated over several weeks
+37819,1,total_activity,281,3.108654266,Overall system activity was unusually high
+37819,2,combined_risk,2.670212766,2.599087423,Multiple risk signals increased at the same time
+37819,3,file_activity,128,1.162217293,File-related activity was unusually high
+5096,1,combined_risk,3.144830161,3.096109418,Multiple risk signals increased at the same time
+5096,2,total_activity,245,2.377724702,Overall system activity was unusually high
+5096,3,file_activity,116,1.097126573,File-related activity was unusually high
+11816,1,combined_risk,3.033594625,4.024981781,Multiple risk signals increased at the same time
+11816,2,http_weekly_active_days,5.504626106,1.721397764,Web activity occurred across many days
+11816,3,behavioral_risk_3week_avg,6,0.399446193,Suspicious behavior stayed elevated over several weeks
+23061,1,combined_risk,3.608995894,3.556628216,Multiple risk signals increased at the same time
+23061,2,http_weekly_active_days,5.504626106,2.088846791,Web activity occurred across many days
+23061,3,behavioral_risk_3week_avg,7,1.416127612,Suspicious behavior stayed elevated over several weeks
+4757,1,combined_risk,3.110115715,2.965226498,Multiple risk signals increased at the same time
+4757,2,total_activity,193,1.760415816,Overall system activity was unusually high
+4757,3,file_activity,101,1.090825577,File-related activity was unusually high
+13685,1,combined_risk,3.09873087,3.48164701,Multiple risk signals increased at the same time
+13685,2,behavioral_risk_3week_avg,4.666666667,0.426097441,Suspicious behavior stayed elevated over several weeks
+13685,3,email_weekly_emails_with_attachments,4.243840372,0.388393151,Many emails included attachments
+18130,1,total_activity,377,2.700551162,Overall system activity was unusually high
+18130,2,combined_risk,4.23012318,1.571277007,Multiple risk signals increased at the same time
+18130,3,behavioral_risk_3week_avg,9,0.988291405,Suspicious behavior stayed elevated over several weeks
+24344,1,combined_risk,2.623926838,2.433620839,Multiple risk signals increased at the same time
+24344,2,total_activity,194,2.415952005,Overall system activity was unusually high
+24344,3,file_activity,67,0.448067603,File-related activity was unusually high
+10937,1,combined_risk,3.064949608,4.038355169,Multiple risk signals increased at the same time
+10937,2,http_weekly_active_days,5.504626106,1.721923017,Web activity occurred across many days
+10937,3,behavioral_risk_3week_avg,6,0.399521087,Suspicious behavior stayed elevated over several weeks
+21485,1,combined_risk,3.140910788,3.021084136,Multiple risk signals increased at the same time
+21485,2,total_activity,238,2.330240652,Overall system activity was unusually high
+21485,3,file_activity,107,1.094517094,File-related activity was unusually high
+33503,1,total_activity,217,2.371115706,Overall system activity was unusually high
+33503,2,combined_risk,4.148749533,2.350678836,Multiple risk signals increased at the same time
+33503,3,http_weekly_active_days,5.504626106,1.882490809,Web activity occurred across many days
+29167,1,combined_risk,4.119074281,2.5208695,Multiple risk signals increased at the same time
+29167,2,http_weekly_active_days,5.504626106,1.58934547,Web activity occurred across many days
+29167,3,total_activity,184,1.552799763,Overall system activity was unusually high
+16118,1,combined_risk,3.150989175,3.071821145,Multiple risk signals increased at the same time
+16118,2,total_activity,256,2.394311685,Overall system activity was unusually high
+16118,3,file_activity,126,1.078235722,File-related activity was unusually high
+4798,1,combined_risk,2.616088093,2.584034201,Multiple risk signals increased at the same time
+4798,2,total_activity,207,2.057159557,Overall system activity was unusually high
+4798,3,file_activity,120,1.154362843,File-related activity was unusually high
+7517,1,combined_risk,2.620754013,2.696977524,Multiple risk signals increased at the same time
+7517,2,total_activity,187,2.124919416,Overall system activity was unusually high
+7517,3,file_activity,55,0.475330527,File-related activity was unusually high
+23241,1,total_activity,333,3.40283581,Overall system activity was unusually high
+23241,2,combined_risk,3.209033221,3.318858091,Multiple risk signals increased at the same time
+23241,3,device_weekly_avg_device_connections_per_day,4.342504712,0.896357651,Daily external device usage was unusually high
+26639,1,total_activity,273,3.00669214,Overall system activity was unusually high
+26639,2,combined_risk,2.66648003,2.578250763,Multiple risk signals increased at the same time
+26639,3,file_activity,120,1.170729944,File-related activity was unusually high
+5867,1,combined_risk,2.61683464,2.762322365,Multiple risk signals increased at the same time
+5867,2,total_activity,176,1.727673101,Overall system activity was unusually high
+5867,3,behavioral_risk_3week_avg,5.333333333,0.50393984,Suspicious behavior stayed elevated over several weeks
+22449,1,total_activity,263,3.497165184,Overall system activity was unusually high
+22449,2,combined_risk,2.695595371,2.399692563,Multiple risk signals increased at the same time
+22449,3,email_weekly_avg_emails_per_day,4.698740835,0.339794011,Daily email volume was unusually high
+34209,1,combined_risk,2.601157148,2.413361785,Multiple risk signals increased at the same time
+34209,2,file_change,-76,1.305723996,File activity changed sharply compared with the previous week
+34209,3,file_activity,100,1.031337526,File-related activity was unusually high
+19889,1,total_activity,251,3.273736216,Overall system activity was unusually high
+19889,2,combined_risk,2.667413214,2.541202499,Multiple risk signals increased at the same time
+19889,3,file_activity,65,0.483000064,File-related activity was unusually high
+10679,1,combined_risk,2.636618141,3.02664941,Multiple risk signals increased at the same time
+10679,2,total_activity,184,1.981741465,Overall system activity was unusually high
+10679,3,behavioral_risk_3week_avg,4.333333333,0.505467671,Suspicious behavior stayed elevated over several weeks
+12229,1,total_activity,284,2.180695438,Overall system activity was unusually high
+12229,2,combined_risk,4.176371781,1.670664011,Multiple risk signals increased at the same time
+12229,3,behavioral_risk_3week_avg,8,1.307322547,Suspicious behavior stayed elevated over several weeks
+34394,1,total_activity,253,3.133979231,Overall system activity was unusually high
+34394,2,combined_risk,3.168906308,2.965985987,Multiple risk signals increased at the same time
+34394,3,file_activity,67,0.498654749,File-related activity was unusually high
+17434,1,total_activity,300,3.548679616,Overall system activity was unusually high
+17434,2,combined_risk,2.681597611,2.630462683,Multiple risk signals increased at the same time
+17434,3,device_weekly_avg_device_connections_per_day,4.233060668,0.619337434,Daily external device usage was unusually high
+16507,1,total_activity,283,2.255504143,Overall system activity was unusually high
+16507,2,combined_risk,4.17581187,1.614076577,Multiple risk signals increased at the same time
+16507,3,behavioral_risk_3week_avg,8,1.243626217,Suspicious behavior stayed elevated over several weeks
+19705,1,combined_risk,4.078387458,3.446358842,Multiple risk signals increased at the same time
+19705,2,http_weekly_active_days,5.504626106,1.767429404,Web activity occurred across many days
+19705,3,behavioral_risk_3week_avg,8,1.420680481,Suspicious behavior stayed elevated over several weeks
+1258,1,combined_risk,2.603770063,2.695115969,Multiple risk signals increased at the same time
+1258,2,total_activity,170,1.204771502,Overall system activity was unusually high
+1258,3,file_activity,108,1.005582697,File-related activity was unusually high
+5445,1,combined_risk,3.064949608,3.962036377,Multiple risk signals increased at the same time
+5445,2,http_weekly_active_days,5.504626106,1.613945833,Web activity occurred across many days
+5445,3,behavioral_risk_3week_avg,6,0.399980896,Suspicious behavior stayed elevated over several weeks
+5556,1,total_activity,250,2.762314801,Overall system activity was unusually high
+5556,2,combined_risk,3.150429265,1.617127984,Multiple risk signals increased at the same time
+5556,3,behavioral_risk_3week_avg,7.666666667,1.16221186,Suspicious behavior stayed elevated over several weeks
+17265,1,combined_risk,3.722097798,3.041030889,Multiple risk signals increased at the same time
+17265,2,total_activity,360,2.551501757,Overall system activity was unusually high
+17265,3,file_activity,148,1.094482596,File-related activity was unusually high
+34638,1,combined_risk,3.150989175,3.092803586,Multiple risk signals increased at the same time
+34638,2,total_activity,256,2.369709104,Overall system activity was unusually high
+34638,3,file_activity,129,1.078235722,File-related activity was unusually high
+17790,1,combined_risk,3.635125047,2.946917052,Multiple risk signals increased at the same time
+17790,2,http_weekly_active_days,7.407214,2.413512889,Web activity occurred across many days
+17790,3,behavioral_risk_3week_avg,7,1.356523514,Suspicious behavior stayed elevated over several weeks
+28717,1,total_activity,298,4.473955321,Overall system activity was unusually high
+28717,2,logon_weekly_active_days,-1.428846822,0.821688588,Login activity occurred across many days
+28717,3,behavioral_risk_3week_avg,6,0.646591086,Suspicious behavior stayed elevated over several weeks
+17567,1,total_activity,352,3.224619611,Overall system activity was unusually high
+17567,2,combined_risk,2.710712953,2.593436472,Multiple risk signals increased at the same time
+17567,3,file_activity,169,1.178498665,File-related activity was unusually high
+34268,1,total_activity,276,3.398459642,Overall system activity was unusually high
+34268,2,combined_risk,3.170212766,3.273015735,Multiple risk signals increased at the same time
+34268,3,device_weekly_avg_device_connections_per_day,4.123616624,0.617994204,Daily external device usage was unusually high
+3629,1,combined_risk,3.108249347,3.003944818,Multiple risk signals increased at the same time
+3629,2,total_activity,193,2.01643117,Overall system activity was unusually high
+3629,3,file_activity,100,1.190427403,File-related activity was unusually high
+1248,1,combined_risk,2.603023516,2.607919219,Multiple risk signals increased at the same time
+1248,2,total_activity,169,1.018071196,Overall system activity was unusually high
+1248,3,file_activity,104,0.923367514,File-related activity was unusually high
+23282,1,total_activity,160,2.546889461,Overall system activity was unusually high
+23282,2,combined_risk,2.101157148,1.461924861,Multiple risk signals increased at the same time
+23282,3,device_weekly_avg_device_connections_per_day,4.561392799,0.896498677,Daily external device usage was unusually high
+6927,1,combined_risk,3.102276969,4.393768664,Multiple risk signals increased at the same time
+6927,2,http_weekly_active_days,5.504626106,1.998016324,Web activity occurred across many days
+6927,3,total_activity,138,0.485993569,Overall system activity was unusually high
+41547,1,combined_risk,3.131392311,3.14406644,Multiple risk signals increased at the same time
+41547,2,total_activity,231,2.442519062,Overall system activity was unusually high
+41547,3,file_activity,130,1.178203197,File-related activity was unusually high
+22458,1,total_activity,268,3.65202327,Overall system activity was unusually high
+22458,2,combined_risk,2.699328108,2.30593707,Multiple risk signals increased at the same time
+22458,3,email_weekly_emails_with_attachments,7.54986328,0.311981242,Many emails included attachments
+12223,1,total_activity,250,2.026013833,Overall system activity was unusually high
+12223,2,combined_risk,4.657894737,1.565457559,Multiple risk signals increased at the same time
+12223,3,behavioral_risk_3week_avg,8,1.271281922,Suspicious behavior stayed elevated over several weeks
+4760,1,combined_risk,3.120754013,3.174598566,Multiple risk signals increased at the same time
+4760,2,total_activity,212,1.675286454,Overall system activity was unusually high
+4760,3,file_activity,123,1.078334683,File-related activity was unusually high
+11077,1,combined_risk,2.610488988,3.663755585,Multiple risk signals increased at the same time
+11077,2,total_activity,149,0.606029397,Overall system activity was unusually high
+11077,3,behavioral_risk_3week_avg,4.666666667,0.575164328,Suspicious behavior stayed elevated over several weeks
+21501,1,combined_risk,3.073908175,4.33016598,Multiple risk signals increased at the same time
+21501,2,http_weekly_active_days,5.504626106,1.51594366,Web activity occurred across many days
+21501,3,total_activity,100,0.435648919,Overall system activity was unusually high
+17754,1,total_activity,267,3.490603052,Overall system activity was unusually high
+17754,2,combined_risk,2.69858156,2.519843753,Multiple risk signals increased at the same time
+17754,3,behavioral_risk_3week_avg,5,0.337903319,Suspicious behavior stayed elevated over several weeks
+10892,1,total_activity,766,2.676197364,Overall system activity was unusually high
+10892,2,combined_risk,4.470698022,2.022266061,Multiple risk signals increased at the same time
+10892,3,behavioral_risk_3week_avg,7,1.08157644,Suspicious behavior stayed elevated over several weeks
+24468,1,combined_risk,3.029115342,3.811094022,Multiple risk signals increased at the same time
+24468,2,http_weekly_active_days,9.309801894,3.695083814,Web activity occurred across many days
+24468,3,behavioral_risk_3week_avg,6,0.359392801,Suspicious behavior stayed elevated over several weeks
+8239,1,combined_risk,2.620754013,2.47690325,Multiple risk signals increased at the same time
+8239,2,total_activity,212,2.246225667,Overall system activity was unusually high
+8239,3,file_activity,107,1.172233396,File-related activity was unusually high
+6050,1,combined_risk,3.032848078,4.025087212,Multiple risk signals increased at the same time
+6050,2,http_weekly_active_days,5.504626106,1.726868836,Web activity occurred across many days
+6050,3,behavioral_risk_3week_avg,6,0.40005579,Suspicious behavior stayed elevated over several weeks
+1058,1,combined_risk,3.123740202,3.180794959,Multiple risk signals increased at the same time
+1058,2,total_activity,219,2.902807286,Overall system activity was unusually high
+1058,3,device_weekly_avg_device_connections_per_day,4.451948756,0.874027574,Daily external device usage was unusually high
+4804,1,combined_risk,3.074281448,3.561774229,Multiple risk signals increased at the same time
+4804,2,file_weekly_total_file_events,5.547875581,1.059792789,File access activity was unusually high
+4804,3,device_weekly_avg_device_connections_per_day,4.451948756,0.821260581,Daily external device usage was unusually high
+38996,1,combined_risk,3.594811497,3.591624283,Multiple risk signals increased at the same time
+38996,2,http_weekly_active_days,5.504626106,2.06643612,Web activity occurred across many days
+38996,3,behavioral_risk_3week_avg,7,1.416776243,Suspicious behavior stayed elevated over several weeks
+8071,1,combined_risk,3.062709966,3.998246095,Multiple risk signals increased at the same time
+8071,2,http_weekly_active_days,5.504626106,1.726812284,Web activity occurred across many days
+8071,3,behavioral_risk_3week_avg,6,0.399980896,Suspicious behavior stayed elevated over several weeks
+28727,1,total_activity,337,3.173681718,Overall system activity was unusually high
+28727,2,combined_risk,3.226763718,2.065942154,Multiple risk signals increased at the same time
+28727,3,behavioral_risk_3week_avg,7,1.225788903,Suspicious behavior stayed elevated over several weeks
+17541,1,combined_risk,3.181784248,3.041294484,Multiple risk signals increased at the same time
+17541,2,total_activity,305,2.518052535,Overall system activity was unusually high
+17541,3,file_activity,144,1.094517094,File-related activity was unusually high
+39422,1,combined_risk,3.090332214,2.927813641,Multiple risk signals increased at the same time
+39422,2,file_weekly_total_file_events,6.433435431,0.966140012,File access activity was unusually high
+39422,3,file_activity,69,0.683827052,File-related activity was unusually high
+23017,1,combined_risk,4.078387458,3.423492771,Multiple risk signals increased at the same time
+23017,2,http_weekly_active_days,5.504626106,1.78643462,Web activity occurred across many days
+23017,3,behavioral_risk_3week_avg,8,1.420145778,Suspicious behavior stayed elevated over several weeks
+39407,1,combined_risk,3.157521463,3.020140794,Multiple risk signals increased at the same time
+39407,2,total_activity,261,2.478790172,Overall system activity was unusually high
+39407,3,file_activity,120,1.094882743,File-related activity was unusually high
+1538,1,combined_risk,3.151362449,3.214385111,Multiple risk signals increased at the same time
+1538,2,total_activity,223,2.92050592,Overall system activity was unusually high
+1538,3,email_weekly_emails_with_attachments,4.632784243,0.28480532,Many emails included attachments
+11206,1,combined_risk,2.621687197,2.771055164,Multiple risk signals increased at the same time
+11206,2,total_activity,191,2.569372742,Overall system activity was unusually high
+11206,3,behavioral_risk_3week_avg,5,0.256476411,Suspicious behavior stayed elevated over several weeks
+41549,1,total_activity,228,2.797496878,Overall system activity was unusually high
+41549,2,combined_risk,2.629712579,2.508236584,Multiple risk signals increased at the same time
+41549,3,file_activity,127,1.172074073,File-related activity was unusually high
+26654,1,combined_risk,3.174505412,3.023726716,Multiple risk signals increased at the same time
+26654,2,total_activity,287,2.524949788,Overall system activity was unusually high
+26654,3,file_activity,124,1.094517094,File-related activity was unusually high
+1052,1,total_activity,252,3.19490275,Overall system activity was unusually high
+1052,2,combined_risk,2.641843972,2.622330608,Multiple risk signals increased at the same time
+1052,3,device_weekly_avg_device_connections_per_day,4.424587745,0.706125248,Daily external device usage was unusually high
+1437,1,total_activity,320,2.031929365,Overall system activity was unusually high
+1437,2,combined_risk,4.688316536,1.637751582,Multiple risk signals increased at the same time
+1437,3,behavioral_risk_3week_avg,8.333333333,1.100437975,Suspicious behavior stayed elevated over several weeks
+19767,1,combined_risk,2.606196342,2.933355876,Multiple risk signals increased at the same time
+19767,2,total_activity,167,1.474285541,Overall system activity was unusually high
+19767,3,device_weekly_avg_device_connections_per_day,4.561392799,0.740641942,Daily external device usage was unusually high
+41556,1,combined_risk,3.077640911,3.641151158,Multiple risk signals increased at the same time
+41556,2,file_weekly_total_file_events,6.329251919,1.024798104,File access activity was unusually high
+41556,3,device_weekly_avg_device_connections_per_day,4.451948756,0.762464923,Daily external device usage was unusually high
+3959,1,total_activity,183,2.829049191,Overall system activity was unusually high
+3959,2,combined_risk,2.128406122,1.321752185,Multiple risk signals increased at the same time
+3959,3,behavioral_risk_3week_avg,5,0.877381668,Suspicious behavior stayed elevated over several weeks
+10900,1,total_activity,759,2.582906739,Overall system activity was unusually high
+10900,2,combined_risk,3.966965286,2.04465799,Multiple risk signals increased at the same time
+10900,3,file_activity,308,1.068481001,File-related activity was unusually high
+41552,1,combined_risk,2.606756252,2.750587872,Multiple risk signals increased at the same time
+41552,2,total_activity,188,1.906172972,Overall system activity was unusually high
+41552,3,file_activity,106,1.174441499,File-related activity was unusually high
+11212,1,total_activity,196,3.530374858,Overall system activity was unusually high
+11212,2,combined_risk,2.125419933,0.911420289,Multiple risk signals increased at the same time
+11212,3,behavioral_risk_3week_avg,4.333333333,0.716064501,Suspicious behavior stayed elevated over several weeks
+23458,1,combined_risk,3.575774543,3.604728551,Multiple risk signals increased at the same time
+23458,2,http_weekly_active_days,5.504626106,1.920813505,Web activity occurred across many days
+23458,3,behavioral_risk_3week_avg,7,1.39636134,Suspicious behavior stayed elevated over several weeks
+28416,1,total_activity,257,3.316912128,Overall system activity was unusually high
+28416,2,combined_risk,3.168346398,2.827969785,Multiple risk signals increased at the same time
+28416,3,file_activity,64,0.534731473,File-related activity was unusually high
+31368,1,combined_risk,3.079134005,4.250157416,Multiple risk signals increased at the same time
+31368,2,http_weekly_active_days,5.504626106,1.778316448,Web activity occurred across many days
+31368,3,total_activity,107,0.494207476,Overall system activity was unusually high
+15118,1,total_activity,231,4.372888022,Overall system activity was unusually high
+15118,2,file_activity,130,1.377468124,File-related activity was unusually high
+15118,3,combined_risk,1.145203434,-0.330327975,Multiple risk signals increased at the same time
+11211,1,total_activity,170,2.517068398,Overall system activity was unusually high
+11211,2,combined_risk,2.109555804,1.202398106,Multiple risk signals increased at the same time
+11211,3,behavioral_risk_3week_avg,4.666666667,0.753341217,Suspicious behavior stayed elevated over several weeks
+5533,1,combined_risk,4.675998507,1.806433196,Multiple risk signals increased at the same time
+5533,2,http_weekly_active_days,7.407214,1.742924357,Web activity occurred across many days
+5533,3,total_activity,296,1.735427266,Overall system activity was unusually high
+37783,1,total_activity,545,2.702870987,Overall system activity was unusually high
+37783,2,combined_risk,3.832213513,1.978307218,Multiple risk signals increased at the same time
+37783,3,behavioral_risk_3week_avg,7.666666667,1.303525663,Suspicious behavior stayed elevated over several weeks
+40112,1,combined_risk,3.624113475,3.27327928,Multiple risk signals increased at the same time
+40112,2,total_activity,187,1.955197034,Overall system activity was unusually high
+40112,3,file_activity,53,0.48475313,File-related activity was unusually high
+20218,1,combined_risk,3.159387831,3.11594057,Multiple risk signals increased at the same time
+20218,2,total_activity,263,2.413595302,Overall system activity was unusually high
+20218,3,file_activity,123,1.078601371,File-related activity was unusually high
+16505,1,total_activity,342,2.245108767,Overall system activity was unusually high
+16505,2,combined_risk,3.711272863,1.784444615,Multiple risk signals increased at the same time
+16505,3,behavioral_risk_3week_avg,8,1.254619233,Suspicious behavior stayed elevated over several weeks
+24688,1,total_activity,159,2.329226664,Overall system activity was unusually high
+24688,2,combined_risk,2.100783875,1.351096304,Multiple risk signals increased at the same time
+24688,3,device_weekly_avg_device_connections_per_day,4.28778269,0.865789651,Daily external device usage was unusually high
+17538,1,total_activity,315,2.526890753,Overall system activity was unusually high
+17538,2,combined_risk,3.687383352,1.691820884,Multiple risk signals increased at the same time
+17538,3,behavioral_risk_3week_avg,7.666666667,1.282918309,Suspicious behavior stayed elevated over several weeks
+17402,1,combined_risk,2.600037327,3.29517208,Multiple risk signals increased at the same time
+17402,2,total_activity,150,0.589241043,Overall system activity was unusually high
+17402,3,behavioral_risk_3week_avg,4.666666667,0.548804872,Suspicious behavior stayed elevated over several weeks
+20292,1,combined_risk,2.600223964,2.801816806,Multiple risk signals increased at the same time
+20292,2,total_activity,177,1.643150486,Overall system activity was unusually high
+20292,3,device_weekly_avg_device_connections_per_day,4.451948756,0.875936406,Daily external device usage was unusually high
+17382,1,total_activity,238,3.897282535,Overall system activity was unusually high
+17382,2,behavioral_risk_3week_avg,5,0.48301132,Suspicious behavior stayed elevated over several weeks
+17382,3,combined_risk,2.166106756,0.425703519,Multiple risk signals increased at the same time
+11213,1,total_activity,213,2.890987474,Overall system activity was unusually high
+11213,2,combined_risk,2.633818589,2.542619661,Multiple risk signals increased at the same time
+11213,3,file_activity,71,0.711888696,File-related activity was unusually high
+34575,1,combined_risk,2.640350877,2.894075913,Multiple risk signals increased at the same time
+34575,2,total_activity,189,2.142853658,Overall system activity was unusually high
+34575,3,behavioral_risk_3week_avg,4.666666667,0.403252314,Suspicious behavior stayed elevated over several weeks
+27397,1,combined_risk,3.609742441,3.556628216,Multiple risk signals increased at the same time
+27397,2,http_weekly_active_days,5.504626106,2.088846791,Web activity occurred across many days
+27397,3,behavioral_risk_3week_avg,7,1.416127612,Suspicious behavior stayed elevated over several weeks
+15465,1,combined_risk,4.588279209,2.11465429,Multiple risk signals increased at the same time
+15465,2,behavioral_risk_3week_avg,8,1.493663625,Suspicious behavior stayed elevated over several weeks
+15465,3,device_weekly_distinct_pcs_used,15.08222696,1.046428489,External devices were used on multiple computers
+18755,1,combined_risk,2.603583427,2.195999687,Multiple risk signals increased at the same time
+18755,2,total_activity,159,1.206442452,Overall system activity was unusually high
+18755,3,behavioral_risk_3week_avg,4.333333333,0.489058339,Suspicious behavior stayed elevated over several weeks
+21066,1,logon_weekly_distinct_pcs,2.666368272,1.652306336,Logins came from multiple computers
+21066,2,combined_risk,2.076894364,1.445778353,Multiple risk signals increased at the same time
+21066,3,behavioral_risk_3week_avg,4.666666667,0.986416495,Suspicious behavior stayed elevated over several weeks
+17568,1,combined_risk,3.17991788,3.041294484,Multiple risk signals increased at the same time
+17568,2,total_activity,301,2.526346001,Overall system activity was unusually high
+17568,3,file_activity,142,1.094517094,File-related activity was unusually high
+29174,1,combined_risk,2.609369168,3.157601326,Multiple risk signals increased at the same time
+29174,2,total_activity,167,1.572191348,Overall system activity was unusually high
+29174,3,behavioral_risk_3week_avg,5,0.507563875,Suspicious behavior stayed elevated over several weeks
+12220,1,total_activity,294,2.339037767,Overall system activity was unusually high
+12220,2,combined_risk,4.181224337,1.623221531,Multiple risk signals increased at the same time
+12220,3,behavioral_risk_3week_avg,9,1.220273346,Suspicious behavior stayed elevated over several weeks
+20389,1,total_activity,246,3.007910961,Overall system activity was unusually high
+20389,2,combined_risk,2.652855543,2.580664455,Multiple risk signals increased at the same time
+20389,3,file_activity,83,1.215460669,File-related activity was unusually high
+40677,1,total_activity,218,2.943696876,Overall system activity was unusually high
+40677,2,combined_risk,2.648562897,2.869047913,Multiple risk signals increased at the same time
+40677,3,email_weekly_high_recipient_emails,3.658948132,0.286022833,Emails were sent to many recipients at once
+4796,1,combined_risk,2.603210153,2.797827736,Multiple risk signals increased at the same time
+4796,2,total_activity,184,1.721463393,Overall system activity was unusually high
+4796,3,file_activity,105,1.165859404,File-related activity was unusually high
+37817,1,combined_risk,3.166106756,3.044113729,Multiple risk signals increased at the same time
+37817,2,total_activity,273,2.476652434,Overall system activity was unusually high
+37817,3,file_activity,117,1.094882743,File-related activity was unusually high
+20201,1,total_activity,494,2.573569788,Overall system activity was unusually high
+20201,2,combined_risk,3.80141844,2.083607983,Multiple risk signals increased at the same time
+20201,3,behavioral_risk_3week_avg,6.666666667,1.367849123,Suspicious behavior stayed elevated over several weeks
+3846,1,combined_risk,4.052818216,2.490614563,Multiple risk signals increased at the same time
+3846,2,behavioral_risk_3week_avg,7.333333333,1.445041607,Suspicious behavior stayed elevated over several weeks
+3846,3,device_weekly_distinct_pcs_used,15.08222696,1.120556019,External devices were used on multiple computers
+14593,1,combined_risk,3.58118701,3.591740543,Multiple risk signals increased at the same time
+14593,2,http_weekly_active_days,7.407214,2.346498855,Web activity occurred across many days
+14593,3,behavioral_risk_3week_avg,7,1.40819736,Suspicious behavior stayed elevated over several weeks
+24680,1,total_activity,194,2.531928351,Overall system activity was unusually high
+24680,2,combined_risk,3.123366928,1.94918884,Multiple risk signals increased at the same time
+24680,3,behavioral_risk_3week_avg,6.666666667,1.159471929,Suspicious behavior stayed elevated over several weeks
+4720,1,total_activity,447,2.564042174,Overall system activity was unusually high
+4720,2,combined_risk,4.255692423,1.817657059,Multiple risk signals increased at the same time
+4720,3,behavioral_risk_3week_avg,8,1.318603732,Suspicious behavior stayed elevated over several weeks
+10932,1,combined_risk,3.747853677,3.079107823,Multiple risk signals increased at the same time
+10932,2,total_activity,404,2.54239138,Overall system activity was unusually high
+10932,3,file_activity,160,1.062461292,File-related activity was unusually high
+20293,1,combined_risk,3.103023516,3.38779209,Multiple risk signals increased at the same time
+20293,2,total_activity,182,2.048194589,Overall system activity was unusually high
+20293,3,device_weekly_avg_device_connections_per_day,4.342504712,0.874318176,Daily external device usage was unusually high
+38695,1,total_activity,264,3.991264743,Overall system activity was unusually high
+38695,2,combined_risk,2.196341919,0.798687628,Multiple risk signals increased at the same time
+38695,3,behavioral_risk_3week_avg,6.333333333,0.480304244,Suspicious behavior stayed elevated over several weeks
+6396,1,combined_risk,3.09051885,3.001861332,Multiple risk signals increased at the same time
+6396,2,file_activity,129,1.025949205,File-related activity was unusually high
+6396,3,file_weekly_total_file_events,4.766499243,0.735630325,File access activity was unusually high
+36081,1,combined_risk,2.616461366,2.702999434,Multiple risk signals increased at the same time
+36081,2,total_activity,163,1.416770695,Overall system activity was unusually high
+36081,3,behavioral_risk_3week_avg,4.333333333,0.615746527,Suspicious behavior stayed elevated over several weeks
+34205,1,combined_risk,3.60339679,1.931178289,Multiple risk signals increased at the same time
+34205,2,behavioral_risk_3week_avg,7.666666667,1.440543785,Suspicious behavior stayed elevated over several weeks
+34205,3,file_activity,98,0.976679995,File-related activity was unusually high
+6387,1,combined_risk,3.116648003,2.739289307,Multiple risk signals increased at the same time
+6387,2,total_activity,200,1.861636374,Overall system activity was unusually high
+6387,3,file_activity,153,0.991707575,File-related activity was unusually high
+17250,1,total_activity,581,2.552931379,Overall system activity was unusually high
+17250,2,combined_risk,4.360022396,1.622289031,Multiple risk signals increased at the same time
+17250,3,file_activity,235,1.266655913,File-related activity was unusually high
+17384,1,combined_risk,3.671892497,3.104707147,Multiple risk signals increased at the same time
+17384,2,total_activity,244,3.003266451,Overall system activity was unusually high
+17384,3,behavioral_risk_raw,0.687913146,0.338728829,Behavior patterns were more unusual than normal
+5057,1,total_activity,493,2.600629113,Overall system activity was unusually high
+5057,2,combined_risk,3.291899963,2.040528281,Multiple risk signals increased at the same time
+5057,3,behavioral_risk_3week_avg,7.333333333,1.309091125,Suspicious behavior stayed elevated over several weeks
+16531,1,combined_risk,3.083426652,2.394855696,Multiple risk signals increased at the same time
+16531,2,behavioral_risk_3week_avg,6.666666667,1.429600312,Suspicious behavior stayed elevated over several weeks
+16531,3,device_weekly_distinct_pcs_used,6.211240264,1.112137044,External devices were used on multiple computers
+40672,1,combined_risk,2.641657335,2.668714685,Multiple risk signals increased at the same time
+40672,2,total_activity,206,2.5270337,Overall system activity was unusually high
+40672,3,behavioral_risk_3week_avg,5.666666667,0.394263584,Suspicious behavior stayed elevated over several weeks
+17756,1,total_activity,239,3.226754311,Overall system activity was unusually high
+17756,2,combined_risk,2.677678238,2.286711762,Multiple risk signals increased at the same time
+17756,3,behavioral_risk_3week_avg,5,0.316789451,Suspicious behavior stayed elevated over several weeks
+28080,1,combined_risk,4.575401269,2.139487762,Multiple risk signals increased at the same time
+28080,2,behavioral_risk_3week_avg,9,1.444403323,Suspicious behavior stayed elevated over several weeks
+28080,3,device_weekly_distinct_pcs_used,14.27577363,1.062706632,External devices were used on multiple computers
+9851,1,combined_risk,3.150242628,2.992071258,Multiple risk signals increased at the same time
+9851,2,total_activity,255,2.491460242,Overall system activity was unusually high
+9851,3,file_activity,124,1.006218425,File-related activity was unusually high
+4103,1,combined_risk,3.565696155,3.751988304,Multiple risk signals increased at the same time
+4103,2,http_weekly_active_days,5.504626106,1.838332247,Web activity occurred across many days
+4103,3,behavioral_risk_3week_avg,7,1.388555006,Suspicious behavior stayed elevated over several weeks
+28113,1,total_activity,326,1.923258666,Overall system activity was unusually high
+28113,2,combined_risk,4.690369541,1.708188468,Multiple risk signals increased at the same time
+28113,3,behavioral_risk_3week_avg,8,1.060032286,Suspicious behavior stayed elevated over several weeks
+39521,1,total_activity,216,3.4087625,Overall system activity was unusually high
+39521,2,file_activity,94,1.143772838,File-related activity was unusually high
+39521,3,behavioral_risk_3week_avg,5,0.49006517,Suspicious behavior stayed elevated over several weeks
+5869,1,combined_risk,2.631578947,2.604812212,Multiple risk signals increased at the same time
+5869,2,total_activity,198,2.484973517,Overall system activity was unusually high
+5869,3,behavioral_risk_3week_avg,4.666666667,0.301351242,Suspicious behavior stayed elevated over several weeks
+22579,1,combined_risk,3.0806271,3.401624738,Multiple risk signals increased at the same time
+22579,2,logon_weekly_distinct_pcs,8.876862258,1.237160584,Logins came from multiple computers
+22579,3,behavioral_risk_3week_avg,5.666666667,0.419716737,Suspicious behavior stayed elevated over several weeks
+1402,1,total_activity,672,2.447196624,Overall system activity was unusually high
+1402,2,combined_risk,3.897349757,1.552450531,Multiple risk signals increased at the same time
+1402,3,behavioral_risk_3week_avg,8.333333333,1.152956029,Suspicious behavior stayed elevated over several weeks
+16169,1,total_activity,212,3.699158554,Overall system activity was unusually high
+16169,2,combined_risk,2.142963792,0.876636153,Multiple risk signals increased at the same time
+16169,3,logon_weekly_active_days,-1.428846822,0.522274707,Login activity occurred across many days
+10930,1,total_activity,296,3.105799902,Overall system activity was unusually high
+10930,2,combined_risk,2.681597611,1.714175276,Multiple risk signals increased at the same time
+10930,3,file_activity,123,1.358038287,File-related activity was unusually high
+5397,1,combined_risk,3.582680105,3.462904819,Multiple risk signals increased at the same time
+5397,2,file_weekly_total_file_events,4.193489929,1.012934698,File access activity was unusually high
+5397,3,file_activity,53,0.48237437,File-related activity was unusually high
+10899,1,total_activity,779,2.678381739,Overall system activity was unusually high
+10899,2,combined_risk,4.478536767,2.039666366,Multiple risk signals increased at the same time
+10899,3,file_activity,331,1.070592966,File-related activity was unusually high
+34622,1,total_activity,496,2.730994263,Overall system activity was unusually high
+34622,2,combined_risk,3.79264651,1.951584968,Multiple risk signals increased at the same time
+34622,3,file_activity,236,1.094261967,File-related activity was unusually high
+10895,1,total_activity,711,2.551948554,Overall system activity was unusually high
+10895,2,combined_risk,4.93747667,2.018957324,Multiple risk signals increased at the same time
+10895,3,file_activity,288,1.082055358,File-related activity was unusually high
+40071,1,combined_risk,3.24710713,3.025399166,Multiple risk signals increased at the same time
+40071,2,total_activity,416,2.691854699,Overall system activity was unusually high
+40071,3,file_activity,202,1.096106405,File-related activity was unusually high
+17984,1,combined_risk,2.611982083,2.77355574,Multiple risk signals increased at the same time
+17984,2,total_activity,168,1.600931726,Overall system activity was unusually high
+17984,3,behavioral_risk_3week_avg,5,0.480471979,Suspicious behavior stayed elevated over several weeks
+3600,1,combined_risk,3.240201568,3.04351606,Multiple risk signals increased at the same time
+3600,2,total_activity,427,2.632366065,Overall system activity was unusually high
+3600,3,file_activity,237,1.076891593,File-related activity was unusually high
+3847,1,combined_risk,3.077454274,2.241745587,Multiple risk signals increased at the same time
+3847,2,behavioral_risk_3week_avg,7,1.446539725,Suspicious behavior stayed elevated over several weeks
+3847,3,device_weekly_distinct_pcs_used,6.211240264,1.09747196,External devices were used on multiple computers
+6557,1,combined_risk,4.586226204,2.058173762,Multiple risk signals increased at the same time
+6557,2,behavioral_risk_3week_avg,8.666666667,1.443549892,Suspicious behavior stayed elevated over several weeks
+6557,3,device_weekly_distinct_pcs_used,13.46932029,1.070550472,External devices were used on multiple computers
+15457,1,combined_risk,4.615714819,2.027469072,Multiple risk signals increased at the same time
+15457,2,total_activity,190,1.303864479,Overall system activity was unusually high
+15457,3,behavioral_risk_3week_avg,8.666666667,1.265436478,Suspicious behavior stayed elevated over several weeks
+22665,1,combined_risk,4.116648003,2.852206648,Multiple risk signals increased at the same time
+22665,2,http_weekly_active_days,5.504626106,1.953581424,Web activity occurred across many days
+22665,3,behavioral_risk_3week_avg,8,1.399097655,Suspicious behavior stayed elevated over several weeks
+25623,1,combined_risk,3.555244494,3.765665509,Multiple risk signals increased at the same time
+25623,2,http_weekly_active_days,5.504626106,1.985322332,Web activity occurred across many days
+25623,3,behavioral_risk_3week_avg,7,1.389089709,Suspicious behavior stayed elevated over several weeks
+16141,1,combined_risk,3.281261665,2.988053978,Multiple risk signals increased at the same time
+16141,2,total_activity,414,2.891221549,Overall system activity was unusually high
+16141,3,file_activity,90,1.221054921,File-related activity was unusually high
+13498,1,combined_risk,3.603770063,3.591516852,Multiple risk signals increased at the same time
+13498,2,http_weekly_active_days,5.504626106,2.088846791,Web activity occurred across many days
+13498,3,behavioral_risk_3week_avg,7,1.416129777,Suspicious behavior stayed elevated over several weeks
+20796,1,total_activity,257,3.071246375,Overall system activity was unusually high
+20796,2,combined_risk,4.170959313,1.76094415,Multiple risk signals increased at the same time
+20796,3,behavioral_risk_3week_avg,8,1.214854366,Suspicious behavior stayed elevated over several weeks
+24619,1,total_activity,663,2.614598363,Overall system activity was unusually high
+24619,2,combined_risk,3.89193729,1.999708088,Multiple risk signals increased at the same time
+24619,3,behavioral_risk_3week_avg,6.666666667,1.098401705,Suspicious behavior stayed elevated over several weeks
+39520,1,combined_risk,3.132512131,2.844755616,Multiple risk signals increased at the same time
+39520,2,total_activity,208,2.585312202,Overall system activity was unusually high
+39520,3,file_activity,80,0.729896912,File-related activity was unusually high
+9855,1,combined_risk,3.154348638,3.003806292,Multiple risk signals increased at the same time
+9855,2,total_activity,262,2.501964354,Overall system activity was unusually high
+9855,3,file_activity,127,1.094882743,File-related activity was unusually high
+33880,1,combined_risk,3.115341545,2.957455161,Multiple risk signals increased at the same time
+33880,2,total_activity,160,1.049875802,Overall system activity was unusually high
+33880,3,behavioral_risk_3week_avg,5,0.382481227,Suspicious behavior stayed elevated over several weeks
+36797,1,combined_risk,3.581373647,3.585032259,Multiple risk signals increased at the same time
+36797,2,http_weekly_active_days,7.407214,2.409741994,Web activity occurred across many days
+36797,3,behavioral_risk_3week_avg,7,1.423654759,Suspicious behavior stayed elevated over several weeks
+27485,1,combined_risk,3.053564763,4.000468171,Multiple risk signals increased at the same time
+27485,2,http_weekly_active_days,5.504626106,1.547692784,Web activity occurred across many days
+27485,3,behavioral_risk_raw,0.590590063,0.375109086,Behavior patterns were more unusual than normal
+15459,1,combined_risk,3.568682344,2.50187038,Multiple risk signals increased at the same time
+15459,2,behavioral_risk_3week_avg,8.333333333,1.41077537,Suspicious behavior stayed elevated over several weeks
+15459,3,device_weekly_distinct_pcs_used,6.211240264,1.095325343,External devices were used on multiple computers
+17546,1,combined_risk,3.715752146,3.140139396,Multiple risk signals increased at the same time
+17546,2,total_activity,361,2.699827916,Overall system activity was unusually high
+17546,3,file_activity,167,1.008827903,File-related activity was unusually high
+9852,1,combined_risk,3.12206047,3.094192863,Multiple risk signals increased at the same time
+9852,2,total_activity,208,1.738294352,Overall system activity was unusually high
+9852,3,file_activity,104,1.090825577,File-related activity was unusually high
+32675,1,combined_risk,3.181597611,3.110481564,Multiple risk signals increased at the same time
+32675,2,total_activity,299,2.541885755,Overall system activity was unusually high
+32675,3,file_activity,131,1.052043644,File-related activity was unusually high
+19478,1,combined_risk,3.064949608,3.98716397,Multiple risk signals increased at the same time
+19478,2,http_weekly_active_days,5.504626106,1.72736869,Web activity occurred across many days
+19478,3,behavioral_risk_3week_avg,6,0.400959197,Suspicious behavior stayed elevated over several weeks
+18676,1,combined_risk,2.571481896,2.29221162,Multiple risk signals increased at the same time
+18676,2,device_weekly_avg_device_connections_per_day,4.470189429,0.979003492,Daily external device usage was unusually high
+18676,3,device_change,-34,0.834552414,Device usage changed sharply compared with the previous week
+26630,1,total_activity,556,2.530531769,Overall system activity was unusually high
+26630,2,combined_risk,4.339492348,2.063293001,Multiple risk signals increased at the same time
+26630,3,behavioral_risk_3week_avg,8,1.292265859,Suspicious behavior stayed elevated over several weeks
+20382,1,total_activity,250,3.346647147,Overall system activity was unusually high
+20382,2,combined_risk,2.655655095,2.586315406,Multiple risk signals increased at the same time
+20382,3,file_activity,78,0.721755378,File-related activity was unusually high
+35724,1,combined_risk,3.590332214,3.591892244,Multiple risk signals increased at the same time
+35724,2,http_weekly_active_days,5.504626106,2.060965048,Web activity occurred across many days
+35724,3,behavioral_risk_3week_avg,7,1.416166645,Suspicious behavior stayed elevated over several weeks
+1401,1,total_activity,701,2.088685209,Overall system activity was unusually high
+1401,2,combined_risk,4.911907428,1.589068824,Multiple risk signals increased at the same time
+1401,3,behavioral_risk_3week_avg,9,1.042014383,Suspicious behavior stayed elevated over several weeks
+33480,1,combined_risk,3.548525569,3.746741095,Multiple risk signals increased at the same time
+33480,2,http_weekly_active_days,5.504626106,1.836274134,Web activity occurred across many days
+33480,3,behavioral_risk_3week_avg,7,1.367751383,Suspicious behavior stayed elevated over several weeks
+34262,1,combined_risk,3.16648003,3.391124579,Multiple risk signals increased at the same time
+34262,2,total_activity,270,3.125879936,Overall system activity was unusually high
+34262,3,device_weekly_avg_device_connections_per_day,4.014172581,0.586062326,Daily external device usage was unusually high
+5062,1,total_activity,476,2.739498177,Overall system activity was unusually high
+5062,2,combined_risk,3.282381486,2.162807052,Multiple risk signals increased at the same time
+5062,3,file_activity,217,1.188477445,File-related activity was unusually high
+25337,1,combined_risk,3.109742441,4.377528611,Multiple risk signals increased at the same time
+25337,2,http_weekly_active_days,5.504626106,2.003479053,Web activity occurred across many days
+25337,3,total_activity,148,0.586012329,Overall system activity was unusually high
+2061,1,combined_risk,3.061216872,3.948367974,Multiple risk signals increased at the same time
+2061,2,http_weekly_active_days,5.504626106,1.359149388,Web activity occurred across many days
+2061,3,behavioral_risk_3week_avg,6,0.399446193,Suspicious behavior stayed elevated over several weeks
+7235,1,combined_risk,3.032848078,3.948367974,Multiple risk signals increased at the same time
+7235,2,http_weekly_active_days,5.504626106,1.364612117,Web activity occurred across many days
+7235,3,behavioral_risk_3week_avg,6,0.399980896,Suspicious behavior stayed elevated over several weeks
+1406,1,total_activity,708,1.990263582,Overall system activity was unusually high
+1406,2,combined_risk,4.917879806,1.566202753,Multiple risk signals increased at the same time
+1406,3,behavioral_risk_3week_avg,9,1.04202186,Suspicious behavior stayed elevated over several weeks
+9869,1,total_activity,238,2.953006973,Overall system activity was unusually high
+9869,2,combined_risk,2.640350877,2.542364402,Multiple risk signals increased at the same time
+9869,3,file_activity,116,1.178498665,File-related activity was unusually high
+15462,1,combined_risk,4.570735349,2.103658432,Multiple risk signals increased at the same time
+15462,2,behavioral_risk_3week_avg,8.666666667,1.390296777,Suspicious behavior stayed elevated over several weeks
+15462,3,device_weekly_distinct_pcs_used,13.46932029,1.078969446,External devices were used on multiple computers
+33786,1,combined_risk,3.564949608,3.753342558,Multiple risk signals increased at the same time
+33786,2,http_weekly_active_days,5.504626106,1.843794976,Web activity occurred across many days
+33786,3,behavioral_risk_3week_avg,7,1.389089709,Suspicious behavior stayed elevated over several weeks
+9370,1,total_activity,310,3.279480269,Overall system activity was unusually high
+9370,2,combined_risk,3.19335573,2.295210965,Multiple risk signals increased at the same time
+9370,3,behavioral_risk_3week_avg,7.333333333,0.980096319,Suspicious behavior stayed elevated over several weeks
+10223,1,total_activity,286,2.577619021,Overall system activity was unusually high
+10223,2,combined_risk,3.664800299,2.122545035,Multiple risk signals increased at the same time
+10223,3,http_weekly_active_days,5.504626106,1.398253233,Web activity occurred across many days
+5547,1,total_activity,247,2.26979709,Overall system activity was unusually high
+5547,2,combined_risk,4.646696529,1.554401434,Multiple risk signals increased at the same time
+5547,3,behavioral_risk_3week_avg,8.666666667,1.078617663,Suspicious behavior stayed elevated over several weeks
+20229,1,total_activity,268,3.099282043,Overall system activity was unusually high
+20229,2,combined_risk,2.66237402,2.574093664,Multiple risk signals increased at the same time
+20229,3,file_activity,119,1.188415807,File-related activity was unusually high
+23266,1,total_activity,173,2.666680038,Overall system activity was unusually high
+23266,2,combined_risk,2.109182531,1.181123811,Multiple risk signals increased at the same time
+23266,3,device_weekly_avg_device_connections_per_day,4.424587745,0.745866973,Daily external device usage was unusually high
+24773,1,combined_risk,3.5806271,3.586806135,Multiple risk signals increased at the same time
+24773,2,http_weekly_active_days,5.504626106,1.952087939,Web activity occurred across many days
+24773,3,behavioral_risk_3week_avg,7,1.424199544,Suspicious behavior stayed elevated over several weeks
+24626,1,total_activity,538,2.666282844,Overall system activity was unusually high
+24626,2,combined_risk,4.318402389,1.554620101,Multiple risk signals increased at the same time
+24626,3,file_activity,258,1.272733912,File-related activity was unusually high
+10894,1,total_activity,714,2.608266353,Overall system activity was unusually high
+10894,2,combined_risk,4.938969765,1.94964751,Multiple risk signals increased at the same time
+10894,3,file_activity,288,1.088218467,File-related activity was unusually high
+32660,1,total_activity,571,2.835904452,Overall system activity was unusually high
+32660,2,combined_risk,3.348450915,2.054701497,Multiple risk signals increased at the same time
+32660,3,behavioral_risk_3week_avg,7.333333333,1.405797721,Suspicious behavior stayed elevated over several weeks
+29660,1,combined_risk,3.572228443,3.662622308,Multiple risk signals increased at the same time
+29660,2,http_weekly_active_days,5.504626106,1.926259952,Web activity occurred across many days
+29660,3,behavioral_risk_3week_avg,7,1.404999827,Suspicious behavior stayed elevated over several weeks
+3728,1,total_activity,257,2.592939036,Overall system activity was unusually high
+3728,2,combined_risk,3.64837626,2.037345834,Multiple risk signals increased at the same time
+3728,3,http_weekly_active_days,5.504626106,1.501126957,Web activity occurred across many days
+25698,1,total_activity,275,5.127568818,Overall system activity was unusually high
+25698,2,logon_weekly_active_days,-2.122578512,0.747690603,Login activity occurred across many days
+25698,3,behavioral_risk_3week_avg,4.666666667,0.729422136,Suspicious behavior stayed elevated over several weeks
+27944,1,combined_risk,3.0806271,3.401840128,Multiple risk signals increased at the same time
+27944,2,logon_weekly_distinct_pcs,8.462829326,1.232099453,Logins came from multiple computers
+27944,3,behavioral_risk_3week_avg,5.333333333,0.418753745,Suspicious behavior stayed elevated over several weeks
+16110,1,combined_risk,3.117954461,3.101090678,Multiple risk signals increased at the same time
+16110,2,total_activity,200,1.736134578,Overall system activity was unusually high
+16110,3,file_activity,98,1.063902202,File-related activity was unusually high
+30796,1,combined_risk,3.601530422,3.591516852,Multiple risk signals increased at the same time
+30796,2,http_weekly_active_days,5.504626106,2.094309521,Web activity occurred across many days
+30796,3,behavioral_risk_3week_avg,7,1.416701348,Suspicious behavior stayed elevated over several weeks
+15364,1,combined_risk,3.608995894,3.556628216,Multiple risk signals increased at the same time
+15364,2,http_weekly_active_days,5.504626106,2.094309521,Web activity occurred across many days
+15364,3,behavioral_risk_3week_avg,7,1.416662315,Suspicious behavior stayed elevated over several weeks
+25702,1,combined_risk,3.160507652,3.316871306,Multiple risk signals increased at the same time
+25702,2,total_activity,234,3.004610865,Overall system activity was unusually high
+25702,3,email_weekly_emails_with_attachments,4.632784243,0.281490183,Many emails included attachments
+8244,1,combined_risk,3.121873834,3.080448427,Multiple risk signals increased at the same time
+8244,2,total_activity,214,1.961259299,Overall system activity was unusually high
+8244,3,file_activity,109,1.260434048,File-related activity was unusually high
+28413,1,total_activity,263,3.632464639,Overall system activity was unusually high
+28413,2,combined_risk,2.674505412,2.983828994,Multiple risk signals increased at the same time
+28413,3,file_change,-27,0.278208737,File activity changed sharply compared with the previous week
+5065,1,total_activity,436,2.710138502,Overall system activity was unusually high
+5065,2,combined_risk,3.758305338,1.978310117,Multiple risk signals increased at the same time
+5065,3,behavioral_risk_3week_avg,6.666666667,1.292713145,Suspicious behavior stayed elevated over several weeks
+10625,1,total_activity,235,3.868907461,Overall system activity was unusually high
+10625,2,behavioral_risk_3week_avg,6.666666667,1.483269822,Suspicious behavior stayed elevated over several weeks
+10625,3,combined_risk,2.156774916,-0.239525437,Multiple risk signals increased at the same time
+5555,1,total_activity,234,2.490881209,Overall system activity was unusually high
+5555,2,combined_risk,4.141097424,1.976533777,Multiple risk signals increased at the same time
+5555,3,behavioral_risk_3week_avg,8.333333333,1.016912195,Suspicious behavior stayed elevated over several weeks
+39416,1,total_activity,280,3.016901791,Overall system activity was unusually high
+39416,2,combined_risk,2.669092945,2.762055596,Multiple risk signals increased at the same time
+39416,3,file_activity,126,1.172134435,File-related activity was unusually high
+15119,1,combined_risk,3.08118701,3.370299074,Multiple risk signals increased at the same time
+15119,2,file_change,-103,2.046331488,File activity changed sharply compared with the previous week
+15119,3,risk_change,-34.3,0.747991236,Network-related risk increased compared with the previous week
+23264,1,combined_risk,2.614221725,3.116070575,Multiple risk signals increased at the same time
+23264,2,total_activity,182,1.822657425,Overall system activity was unusually high
+23264,3,device_weekly_avg_device_connections_per_day,4.37898606,0.711297362,Daily external device usage was unusually high
+28019,1,combined_risk,3.138111236,3.041294484,Multiple risk signals increased at the same time
+28019,2,total_activity,233,2.232512428,Overall system activity was unusually high
+28019,3,file_activity,112,1.094517094,File-related activity was unusually high
+5055,1,total_activity,488,2.563659687,Overall system activity was unusually high
+5055,2,combined_risk,4.289287047,2.296668297,Multiple risk signals increased at the same time
+5055,3,behavioral_risk_3week_avg,8,1.337649278,Suspicious behavior stayed elevated over several weeks
+17438,1,total_activity,333,3.179258348,Overall system activity was unusually high
+17438,2,combined_risk,3.202500933,3.162231623,Multiple risk signals increased at the same time
+17438,3,device_weekly_avg_device_connections_per_day,4.561392799,0.783866261,Daily external device usage was unusually high
+22631,1,total_activity,174,2.733020054,Overall system activity was unusually high
+22631,2,combined_risk,2.112915267,0.976277855,Multiple risk signals increased at the same time
+22631,3,behavioral_risk_3week_avg,4.666666667,0.924112581,Suspicious behavior stayed elevated over several weeks
+18760,1,total_activity,168,2.900592199,Overall system activity was unusually high
+18760,2,combined_risk,2.110115715,0.993315361,Multiple risk signals increased at the same time
+18760,3,behavioral_risk_3week_avg,4.666666667,0.91750568,Suspicious behavior stayed elevated over several weeks
+30482,1,combined_risk,3.277715566,3.394039067,Multiple risk signals increased at the same time
+30482,2,total_activity,437,3.26238234,Overall system activity was unusually high
+30482,3,device_weekly_avg_device_connections_per_day,4.451948756,0.871287676,Daily external device usage was unusually high
+26217,1,total_activity,239,3.430119574,Overall system activity was unusually high
+26217,2,combined_risk,2.660694289,2.851213359,Multiple risk signals increased at the same time
+26217,3,logon_weekly_active_days,-1.428846822,0.483113925,Login activity occurred across many days
+21475,1,combined_risk,3.149869354,3.078622971,Multiple risk signals increased at the same time
+21475,2,total_activity,254,2.406254334,Overall system activity was unusually high
+21475,3,file_activity,123,1.077257242,File-related activity was unusually high
+24579,1,total_activity,223,4.208025896,Overall system activity was unusually high
+24579,2,logon_weekly_active_days,-2.122578512,1.04353817,Login activity occurred across many days
+24579,3,combined_risk,2.156028369,0.926443968,Multiple risk signals increased at the same time
+37536,1,combined_risk,3.128032848,2.67519411,Multiple risk signals increased at the same time
+37536,2,total_activity,193,2.426551882,Overall system activity was unusually high
+37536,3,file_change,-74,1.157761891,File activity changed sharply compared with the previous week
+32687,1,combined_risk,3.174692049,3.07181941,Multiple risk signals increased at the same time
+32687,2,total_activity,287,2.455924506,Overall system activity was unusually high
+32687,3,file_activity,125,1.078235722,File-related activity was unusually high
+28414,1,combined_risk,3.166853303,3.172483208,Multiple risk signals increased at the same time
+28414,2,total_activity,250,2.912067721,Overall system activity was unusually high
+28414,3,file_activity,54,0.49115066,File-related activity was unusually high
+27977,1,total_activity,532,2.718978048,Overall system activity was unusually high
+27977,2,combined_risk,3.81485629,1.996463033,Multiple risk signals increased at the same time
+27977,3,behavioral_risk_3week_avg,7.333333333,1.309091125,Suspicious behavior stayed elevated over several weeks
+15917,1,combined_risk,3.608435984,2.897354154,Multiple risk signals increased at the same time
+15917,2,http_weekly_active_days,5.504626106,1.839729802,Web activity occurred across many days
+15917,3,behavioral_risk_3week_avg,7,1.415378961,Suspicious behavior stayed elevated over several weeks
+34617,1,total_activity,500,2.423038291,Overall system activity was unusually high
+34617,2,combined_risk,4.294326241,2.262205443,Multiple risk signals increased at the same time
+34617,3,behavioral_risk_3week_avg,8,1.332148629,Suspicious behavior stayed elevated over several weeks
+13691,1,combined_risk,2.613101904,2.695055897,Multiple risk signals increased at the same time
+13691,2,total_activity,165,1.445517313,Overall system activity was unusually high
+13691,3,behavioral_risk_3week_avg,4.666666667,0.58622002,Suspicious behavior stayed elevated over several weeks
+3618,1,combined_risk,2.606569616,2.756238823,Multiple risk signals increased at the same time
+3618,2,total_activity,190,1.731884817,Overall system activity was unusually high
+3618,3,file_activity,95,1.258345732,File-related activity was unusually high
+9649,1,combined_risk,3.116274729,3.147023787,Multiple risk signals increased at the same time
+9649,2,total_activity,167,1.391610457,Overall system activity was unusually high
+9649,3,behavioral_risk_3week_avg,5.666666667,0.358142802,Suspicious behavior stayed elevated over several weeks
+17526,1,total_activity,613,2.610448089,Overall system activity was unusually high
+17526,2,combined_risk,4.366741321,1.984451554,Multiple risk signals increased at the same time
+17526,3,behavioral_risk_3week_avg,7.333333333,1.292713145,Suspicious behavior stayed elevated over several weeks
+7241,1,combined_risk,3.608249347,3.556628216,Multiple risk signals increased at the same time
+7241,2,http_weekly_active_days,5.504626106,2.094309521,Web activity occurred across many days
+7241,3,behavioral_risk_3week_avg,7,1.41666448,Suspicious behavior stayed elevated over several weeks
+5063,1,combined_risk,3.283501306,3.157256544,Multiple risk signals increased at the same time
+5063,2,total_activity,478,2.491023643,Overall system activity was unusually high
+5063,3,file_activity,221,1.052199629,File-related activity was unusually high
+37799,1,combined_risk,3.174318776,3.105345221,Multiple risk signals increased at the same time
+37799,2,total_activity,288,2.46290887,Overall system activity was unusually high
+37799,3,file_activity,129,1.078601371,File-related activity was unusually high
+34633,1,total_activity,256,2.485523126,Overall system activity was unusually high
+34633,2,combined_risk,3.150989175,2.066557098,Multiple risk signals increased at the same time
+34633,3,behavioral_risk_3week_avg,6.666666667,1.327419975,Suspicious behavior stayed elevated over several weeks
+32602,1,combined_risk,2.595744681,3.137383485,Multiple risk signals increased at the same time
+32602,2,total_activity,141,0.703783829,Overall system activity was unusually high
+32602,3,behavioral_risk_3week_avg,6.333333333,0.524901616,Suspicious behavior stayed elevated over several weeks
+12228,1,total_activity,234,2.522349614,Overall system activity was unusually high
+12228,2,combined_risk,3.648749533,1.477393231,Multiple risk signals increased at the same time
+12228,3,behavioral_risk_3week_avg,8.333333333,1.160577527,Suspicious behavior stayed elevated over several weeks
+21463,1,total_activity,498,2.631231109,Overall system activity was unusually high
+21463,2,combined_risk,3.794699515,2.01281646,Multiple risk signals increased at the same time
+21463,3,file_activity,236,1.077980595,File-related activity was unusually high
+6006,1,combined_risk,3.633631952,2.936639857,Multiple risk signals increased at the same time
+6006,2,http_weekly_active_days,5.504626106,1.994038353,Web activity occurred across many days
+6006,3,behavioral_risk_3week_avg,7,1.431141744,Suspicious behavior stayed elevated over several weeks
+28013,1,combined_risk,3.64371034,3.075600909,Multiple risk signals increased at the same time
+28013,2,total_activity,243,2.325754454,Overall system activity was unusually high
+28013,3,file_activity,116,1.094517094,File-related activity was unusually high
+5296,1,total_activity,192,2.412838499,Overall system activity was unusually high
+5296,2,combined_risk,4.129525943,1.816592953,Multiple risk signals increased at the same time
+5296,3,behavioral_risk_3week_avg,8,1.207795971,Suspicious behavior stayed elevated over several weeks
+19896,1,combined_risk,3.10339679,2.831339793,Multiple risk signals increased at the same time
+19896,2,total_activity,156,1.103722873,Overall system activity was unusually high
+19896,3,risk_change,-35.3,0.746640148,Network-related risk increased compared with the previous week
+32465,1,combined_risk,2.619820829,2.691424534,Multiple risk signals increased at the same time
+32465,2,total_activity,182,1.976620338,Overall system activity was unusually high
+32465,3,behavioral_risk_3week_avg,4.333333333,0.534336606,Suspicious behavior stayed elevated over several weeks
+28090,1,total_activity,304,2.058436396,Overall system activity was unusually high
+28090,2,combined_risk,4.678984696,1.496027727,Multiple risk signals increased at the same time
+28090,3,behavioral_risk_3week_avg,9.333333333,1.047415521,Suspicious behavior stayed elevated over several weeks
+20237,1,combined_risk,4.132325495,2.731375503,Multiple risk signals increased at the same time
+20237,2,http_weekly_active_days,7.407214,2.165071601,Web activity occurred across many days
+20237,3,total_activity,188,1.532464207,Overall system activity was unusually high
+41557,1,combined_risk,3.064949608,3.962142971,Multiple risk signals increased at the same time
+41557,2,http_weekly_active_days,5.504626106,1.36513737,Web activity occurred across many days
+41557,3,behavioral_risk_3week_avg,6,0.40005579,Suspicious behavior stayed elevated over several weeks
+16501,1,total_activity,255,2.257631949,Overall system activity was unusually high
+16501,2,combined_risk,3.660880926,1.532252272,Multiple risk signals increased at the same time
+16501,3,behavioral_risk_3week_avg,7.333333333,1.230868756,Suspicious behavior stayed elevated over several weeks
+1250,1,combined_risk,3.075214632,3.451757142,Multiple risk signals increased at the same time
+1250,2,file_weekly_total_file_events,6.433435431,0.997461316,File access activity was unusually high
+1250,3,file_change,-49,0.609649013,File activity changed sharply compared with the previous week
+39409,1,combined_risk,3.166853303,3.034841907,Multiple risk signals increased at the same time
+39409,2,total_activity,276,2.518143483,Overall system activity was unusually high
+39409,3,file_activity,123,0.980026346,File-related activity was unusually high
+25298,1,combined_risk,2.616648003,2.717596244,Multiple risk signals increased at the same time
+25298,2,total_activity,180,2.08294675,Overall system activity was unusually high
+25298,3,behavioral_risk_3week_avg,4.333333333,0.597705114,Suspicious behavior stayed elevated over several weeks
+30487,1,total_activity,228,3.064853366,Overall system activity was unusually high
+30487,2,combined_risk,3.643523703,1.861370172,Multiple risk signals increased at the same time
+30487,3,device_weekly_avg_device_connections_per_day,4.37898606,0.94716135,Daily external device usage was unusually high
+6094,1,combined_risk,2.627286301,2.704775337,Multiple risk signals increased at the same time
+6094,2,total_activity,179,1.602186688,Overall system activity was unusually high
+6094,3,behavioral_risk_3week_avg,4.666666667,0.42423083,Suspicious behavior stayed elevated over several weeks
+29170,1,combined_risk,2.606196342,2.846673163,Multiple risk signals increased at the same time
+29170,2,total_activity,163,1.405960175,Overall system activity was unusually high
+29170,3,behavioral_risk_3week_avg,6,0.518555487,Suspicious behavior stayed elevated over several weeks
+3559,1,total_activity,219,3.093710924,Overall system activity was unusually high
+3559,2,combined_risk,2.650242628,2.285275611,Multiple risk signals increased at the same time
+3559,3,file_activity,50,0.497199581,File-related activity was unusually high
+20388,1,total_activity,241,2.864628416,Overall system activity was unusually high
+20388,2,combined_risk,2.650055991,2.533857431,Multiple risk signals increased at the same time
+20388,3,file_activity,87,1.161420661,File-related activity was unusually high
+37314,1,combined_risk,3.03210153,4.024980618,Multiple risk signals increased at the same time
+37314,2,http_weekly_active_days,5.504626106,1.726860493,Web activity occurred across many days
+37314,3,behavioral_risk_3week_avg,6,0.399980896,Suspicious behavior stayed elevated over several weeks
+9866,1,total_activity,266,3.005442747,Overall system activity was unusually high
+9866,2,combined_risk,2.656588279,2.574947105,Multiple risk signals increased at the same time
+9866,3,file_activity,134,1.172074073,File-related activity was unusually high
+15113,1,combined_risk,2.616274729,2.424744111,Multiple risk signals increased at the same time
+15113,2,total_activity,179,1.572496586,Overall system activity was unusually high
+15113,3,file_activity,81,0.536523104,File-related activity was unusually high
+28110,1,total_activity,250,1.834594316,Overall system activity was unusually high
+28110,2,combined_risk,4.647443076,1.652315742,Multiple risk signals increased at the same time
+28110,3,behavioral_risk_3week_avg,8.333333333,1.045707492,Suspicious behavior stayed elevated over several weeks
